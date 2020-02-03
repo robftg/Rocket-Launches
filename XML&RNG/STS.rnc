@@ -1,0 +1,18 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = xml
+xml = element xml{text}
+stsNum = element stsNum {text}
+mission = element mission {type, org}
+org = attribute org {text}
+type = attribute type {text}
+orbiter = element orbiter {oName}
+oName = attribute oName {text}
+launchPad = element launchPad {base, padNum}
+base = attribute base {text}
+padNum = attribute padNum {text}
+sts = element sts {mission, orbiter, launchPad, launch}
+launch = attribute launch {xsd:dateTime}
+land = attribute land {xsd:dateTime}
+duration = attribute duration {xsd:duration}
+
