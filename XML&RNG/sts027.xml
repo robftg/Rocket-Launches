@@ -8,8 +8,8 @@
 <landPad ebase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
 <land eDateTime="1988-12-06T15:36:11">Landing: Dec. 6, 1988, 3:36:11 p.m. PST</land>
 <duration time="P4DT9H5M37S">Mission Duration: 4 days, 9 hours, 5 minutes, 37 seconds</duration>
-<altitude aDegree="C">Orbit Altitude: Classified</altitude>
-<inclination iDegree="57">Orbit Inclination: 57 degrees</inclination>
+<altitude alt="C">Orbit Altitude: Classified</altitude>
+<inclination deg="57">Orbit Inclination: 57 degrees</inclination>
 
 Third mission dedicated to the Department of Defense.
 
