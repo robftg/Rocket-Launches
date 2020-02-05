@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-    STS-51G
-    Mission: MORELOS-A, ARABSAT-A and TELSTAR-3D Communications Satellites
-    Space Shuttle: Discovery
-    Launch Pad: 39A
-    Launched: June 17, 1985 at 7:33:00 a.m. EDT
-    Landing Site: Edwards Air Force Base, Calif.
-    Landing: June 24, 1985 at 6:11:52 a.m. PDT
-    Mission Duration: 7 days, 1 hour, 38 minutes, 52 seconds
-    Orbit Altitude: 209 nautical miles
-    Orbit Inclination: 28.45 degrees
+    <sts stsNum="51G">STS-51G</sts>
+    <mission type="" org="">Mission: MORELOS-A, ARABSAT-A and TELSTAR-3D Communications Satellites</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1985-06-17T07:33:00">Launched: June 17, 1985 at 7:33:00 a.m. EDT</launch>
+    <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="1985-06-24T06:11:52">Landing: June 24, 1985 at 6:11:52 a.m. PDT</land>
+    <duration time="P7DT1H38M52S">Mission Duration: 7 days, 1 hour, 38 minutes, 52 seconds</duration>
+    <altitude alt="209">Orbit Altitude: 209 nautical miles</altitude>
+    <inclination deg="28.45">Orbit Inclination: 28.45 degrees</inclination>
     
     Three communications satellites, all attached to the Payload Assist Module-D (PAM-D) motors, were deployed: MORELOS-A, for Mexico; ARABSAT-A, for Arab Satellite Communications Organization; and TELSTAR-3D, for AT&T. Also flown: deployable/retrievable Shuttle Pointed Autonomous Research Tool for Astronomy (SPARTAN-1); six Get Away Special canisters; Strategic Defense Initiative experiment called the High Precision Tracking Experiment (HPTE); a materials processing furnace called Automated Directional Solidification Furnace (ADSF); and two French biomedical experiments.
     
