@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-    STS-8
-    Mission: Multipurpose Satellite/First Night Launch and Landing
-    Space Shuttle: Challenger
-    Launch Pad: 39A
-    Launched: Aug. 30, 1983 at 2:32:00 a.m. EDT
-    Landing Site: Edwards Air Force Base, Calif.
-    Landing: Sept. 5, 1983 at 12:40:43 a.m. PDT
-    Mission Duration: 6 days, 1 hour, 8 minutes and 43 seconds
-    Orbit Altitude: 191 nautical miles
-    Orbit Inclination: 28.5 degrees
+    <sts stsNum="008">STS-8</sts>
+    <mission type="" org="">Mission: Multipurpose Satellite/First Night Launch and Landing</mission>
+    <orbiter oName="challenger">Space Shuttle: Challenger</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1983-08-30T02:32:00">Launched: Aug. 30, 1983 at 2:32:00 a.m. EDT</launch>
+    <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="1983-09-05T12:40:43">Landing: Sept. 5, 1983 at 12:40:43 a.m. PDT</land>
+    <duration time="P6DT1H8M43S">Mission Duration: 6 days, 1 hour, 8 minutes and 43 seconds</duration>
+    <altitude alt="191">Orbit Altitude: 191 nautical miles</alt>
+    <inclination deg="28.5">Orbit Inclination: 28.5 degrees</inclination>
     
     Bluford became the first African-American to fly in space. INSAT-1B, a multipurpose satellite for India which was attached to the Payload Assist Module-D (PAM-D) motor, was deployed. The nose of orbiter was held away from the sun for 14 hours to test the flight deck area in extreme cold. For the Development Flight Instrumentation Pallet (DFI PLT), the crew filmed performance of an experimental heat pipe mounted in the cargo bay; also, the orbiter dropped to 139 miles altitude to perform tests on thin atomic oxygen to identify the cause of glow that surrounds parts of the orbiter at night. The remote manipulator system was tested to evaluate joint reactions to higher loads. The following biofeedback experiment was conducted: six rats were flown in the Animal Enclosure Module to observe animal reactions in space. Other payloads on this mission: Continuous Flow Electrophoresis System (CFES); Shuttle Student Involvement Program (SSlP) experiment; Incubator-Cell Attachment Test (l CAT); Investigation of STS Atmospheric Luminosities (ISAL); Radiation Monitoring Equipment (RME); and five Get Away Special experiment packages including eight cans of postal covers. Testing was conducted between the Tracking and Data Relay Satellite-I (TDRS-1) and the orbiter using a Ku-band antenna, and investigations continued on the Space Adaptation Syndrome.
     
