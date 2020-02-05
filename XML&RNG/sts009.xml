@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
     <sts stsNum="009">STS-9</sts>
-    <mission type="" org="">Mission: Orbital Laboratory and Observations Platform/First Spacelab Mission/First Rollback/First 6 Crew Member</mission> Flight
+    <mission type="" org="">Mission: Orbital Laboratory and Observations Platform/First Spacelab Mission/First Rollback/First 6 Crew Member Flight</mission>
     <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1983-11-28T11:00:00">Launched: November 28, 1983 at 11:00:00 a.m. EST</launch>
