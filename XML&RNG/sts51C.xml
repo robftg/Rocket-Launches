@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-    STS-51C
-    Mission: Department of Defense
-    Space Shuttle: Discovery
-    Launch Pad: 39A
-    Launched: January 24, 1985 at 2:50:00 p.m. EST
-    Landing Site: Kennedy Space Center, Florida
-    Landing: January 27, 1985 at 4:23:23 p.m. EST
-    Mission Duration: 3 days, 1 hour, 33 minutes, 23 seconds
-    Orbit Altitude: 220 nautical miles
-    Orbit Inclination: 28.5 degrees
+    <sts stsNum="51C">STS-51C</sts>
+    <mission type="C" org="dod">Mission: Department of Defense</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1985-01-24T14:50:00">Launched: January 24, 1985 at 2:50:00 p.m. EST</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1985-01-27T16:23:23">Landing: January 27, 1985 at 4:23:23 p.m. EST</land>
+    <duration time="P3DT1H33M23S">Mission Duration: 3 days, 1 hour, 33 minutes, 23 seconds</durtion>
+    <altitude alt="220">Orbit Altitude: 220 nautical miles</altitude>
+    <inclination deg="28.5">Orbit Inclination: 28.5 degrees</inclination>
     
     This was the first mission dedicated to the Department of Defense. The U.S. Air Force Inertial Upper Stage (IUS) booster was deployed and met the mission objectives.
     
