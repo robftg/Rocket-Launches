@@ -1,18 +1,26 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = xml
-xml = element xml{text}
-stsNum = element stsNum {text}
-mission = element mission {type, org}
-org = attribute org {text}
-type = attribute type {text}
-orbiter = element orbiter {oName}
-oName = attribute oName {text}
-launchPad = element launchPad {base, padNum}
-base = attribute base {text}
-padNum = attribute padNum {text}
-sts = element sts {mission, orbiter, launchPad, launch}
-launch = attribute launch {xsd:dateTime}
-land = attribute land {xsd:dateTime}
-duration = attribute duration {xsd:duration}
-
+xml = element xml{sts, mission, orbiter, launchPad, launch, landPad, land, duration, altitude, inclination}
+sts = element sts{stsNum, text}
+stsNum = attribute stsNum={xsd:integer}
+mission = element mission{type, org, text}
+type = attribute type{text}
+org = attribute org{text}
+orbiter = element orbiter{oName, text}
+oName = attribute oName{challenger | atlantis}
+launchPad = element launchPad{sBase, padNum, text}
+sBase = attribute sBase{text}
+padNum = attribute padNum{text}
+lunch = element launch{sDateTime, text}
+sDateTime = attribute sDateTime{xsd:DateTime}
+landPad = element landPad{eBase, text}
+eBase = attribute eBase{text}
+land = element land{eDateTime, text}
+eDateTime = attribute eDateTime{xsd:DateTime}
+duration = element duration{time, text}
+time = attribute time{xsd:duration}
+altitude = element altitude{alt, text}
+alt = attribute alt{xsd:integer}
+inclination = element inclination{deg, text}
+deg = altitude deg{xsd:decimal}
