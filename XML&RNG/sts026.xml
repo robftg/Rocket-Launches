@@ -3,7 +3,7 @@
     <sts stsNum="026">STS-26: Return to Flight</sts>
     <mission type="" org="" >Mission: TDRS-C</mission>
     <orbiter oName="Discovery">Space Shuttle: Discovery</orbiter>
-    <launchPad sBase="" padNum="39B">Launch Pad: 39B</launchPad>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1988-09-29T11:37:00">Launched: Sept. 29, 1988, 11:37:00 a.m. EDT</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
     <land eDateTime="1988-10-03T09:37:11">Landing: October 3, 1988, 9:37:11 a.m. PDT</land>
