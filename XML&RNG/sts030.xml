@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-    STS-30
-    Mission: Magellan
-    Space Shuttle: Atlantis
-    Launch Pad: 39B
-    Launched: May 4, 1989, 2:46:59 p.m. EDT
-    Landing Site: Edwards Air Force Base, Calif.
-    Landing: May 8, 1989, 12:43:26 p.m. PDT
-    Mission Duration: 4 days, 0 hours, 56 minutes, 27 seconds
-    Orbit Altitude: 184 nautical miles
-    Orbit Inclination: 28.8 degrees
+    <sts stsNum="030">STS-30</sts>
+    <mission type="" org="">Mission: Magellan</mission>
+    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1989-05-04T14:46:59">Launched: May 4, 1989, 2:46:59 p.m. EDT</launch>
+    <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="1989-05-08T12:43:26">Landing: May 8, 1989, 12:43:26 p.m. PDT</land>
+    <duration time="P4DT56M27S">Mission Duration: 4 days, 0 hours, 56 minutes, 27 seconds</duration>
+    <altitude alt="184">Orbit Altitude: 184 nautical miles</altitude>
+    <inclination deg="28.8">Orbit Inclination: 28.8 degrees</inclination>
     
     The primary payload, a Magellan/Venus radar mapper spacecraft and attached Inertial Upper Stage (IUS), was deployed six hours, 14 minutes into flight. The IUS first and second stage fired as planned, boosting the Magellan spacecraft on a proper trajectory for a 15-month journey to Venus.
     
