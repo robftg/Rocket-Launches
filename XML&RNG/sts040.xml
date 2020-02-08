@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-    STS-40
-    Mission: Spacelab Life Sciences-1
-    Space Shuttle: Columbia
-    Launch Pad: 39B
-    Launched: June 5, 1991, 9:24:51 a.m. EDT
-    Landing Site: Edwards Air Force Base, Calif.
-    Landing: June 14, 1991, 8:39:11 a.m. PDT
-    Mission Duration: 9 days, 2 hours, 14 minutes, 20 seconds
-    Orbit Altitude: 157 nautical miles
-    Orbit Inclination: 39 degrees
+    <sts stsNum="040">STS-40</sts>
+    <mission type="" org="">Mission: Spacelab Life Sciences-1</mission>
+    <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1991-06-05T09:24:51">Launched: June 5, 1991, 9:24:51 a.m. EDT</launch>
+    <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="1991-06-14T08:39:11">Landing: June 14, 1991, 8:39:11 a.m. PDT</land>
+    <duration time="P9DT2H14M20S">Mission Duration: 9 days, 2 hours, 14 minutes, 20 seconds</duration>
+    <altitude alt="157">Orbit Altitude: 157 nautical miles</altitude>
+    <inclination deg="39">Orbit Inclination: 39 degrees</inclination>
     
     The fifth dedicated Spacelab mission, Spacelab Life Sciences-1, and first mission dedicated solely to life sciences, using the habitable module. The mission featured the most detailed and interrelated physiological measurements in space since 1973-1974 Skylab missions. Subjects were humans, 30 rodents and thousands of tiny jellyfish. Primarily the SLS-1 experiments studied six body systems; of 18 investigations, ten involved humans, seven involved rodents, and one used jellyfish.
     
