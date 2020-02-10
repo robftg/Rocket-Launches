@@ -1,7 +1,7 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = xml
-xml = element xml{sts, mission, orbiter, launchPad, launch, landPad, land, duration, altitude, inclination}
+xml = element xml{sts, mission, orbiter, launchPad, launch, landPad, land, duration, altitude, inclination, desc}
 sts = element sts{stsNum, text}
 stsNum = attribute stsNum {xsd:integer}
 mission = element mission{type, org, text}
