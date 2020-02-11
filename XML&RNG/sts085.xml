@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-85
+    Mission: CRISTA-SPAS-02
+    Space Shuttle: Discovery
+    Launch Pad: 39A
+    Launched: August 7, 1997, 10:41:00 a.m. EDT
+    Landing Site: Kennedy Space Center, Florida
+    Landing: August 19, 1997, 7:07:59 a.m. EDT
+    Mission Duration: 11 days, 19 hours, 18 minutes, 47 seconds
+    Orbit Altitude: 173 statute miles
+    Orbit Inclination: 51.6 degrees
+    
+    STS-85 carried a complement of payloads in the cargo bay that focused on Mission to Planet Earth objectives as well as preparations for International Space Station assembly: the Cryogenic Infrared Spectrometers and Telescopes for the Atmosphere-Shuttle Pallet Satellite-2 (CRISTA-SPAS-02); the Japanese Manipulator Flight Development (MFD); the Technology Applications and Science-01 (TAS-1) and the International Extreme Ultraviolet Hitchhiker-02 (IEH-02).
+    
+    This was the second flight of CRISTA-SPAS payload.
+    
+    Crew consisted of Commander Curtis L. Brown, Pilot Kent V. Rominger, Mission Specialists N. Jan Davis, Robert L. Curbeam, Jr., Stephen K. Robinson, and Payload Specialist Bjarni V. Tryggvason.
+    
+</xml>
+

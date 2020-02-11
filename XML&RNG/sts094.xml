@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-94
+    Mission: MSL-1 Reflight
+    Space Shuttle: Columbia
+    Launch Pad: 39A
+    Launched: July 1, 1997 2:02:00 p.m. EDT
+    Landing Site: Kennedy Space Center, Florida
+    Landing: July 17, 1997, 6:46:34 a.m. EDT
+    Mission Duration: 15 days, 16 hours, 44 minutes, 34 seconds
+    Orbit Altitude: 184 statute miles
+    Orbit Inclination: 28.45 degrees
+    
+    STS-94 marked the first reflight of same vehicle, crew and payloads, following shortened STS-83 mission in April due to indications of a fuel cell problem. Primary payload was the Microgravity Science Laboratory-1 (MSL-1). A quick turnaround in processing Columbia for the reflight was accomplished in part by the first reservicing of a primary payload, MSL-1, in the orbiter.
+    
+    The crew maintained 24-hour/two-shift operations. Using the Spacelab module as a test-bed, MSL-1 tested some of the hardware, facilities and procedures that will be used on the International Space Station. The 33 investigations conducted also yielded new knowledge in the principal scientific fields of combustion, biotechnology and materials processing.
+    
+    Crew consisted of Commander James D. Halsell, Pilot Susan L. Still, Payload Commander Janice E. Voss, Mission Specialists Donald A. Thomas, Michael L. Gernhardt, Payload Specialists Roger Crouch and Greg Linteris.
+    
+</xml>
+

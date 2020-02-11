@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-70
+    Mission: TDRS-G
+    Space Shuttle: Discovery
+    Launch Pad: 39B
+    Launched: July 13, 1995 at 9:41:55.078 a.m. EDT
+    Landing Site: Kennedy Space Center, Florida
+    Landing: July 22, 1995 at 8:02 a.m. EDT
+    Mission Duration: 8 days, 22 hours, 20 minutes, 5 seconds
+    Orbit Altitude: 160 nautical miles
+    Orbit Inclination: 28.45 degrees
+    
+    Primary objective of the mission accomplished when Tracking and Data Relay Satellite-G deployed from orbiter payload bay about six hours after liftoff. Approximately one hour after deployment, Inertial Upper Stage (IUS) booster attached to TDRS-G completed first of two scheduled burns to place TDRS-G in geosynchronous orbit.
+    
+    During remainder of mission, five crew members completed variety of experiments. Biological Research in Canister (BRIC) experiments study effects of microgravity on wide range of physiological processes in plants, insects and small invertebrate animals. BRIC-4 examined how hormone system and muscle formation of tobacco hornworm affected by microgravity; BRIC-5 tested whether cell division changes in daylily are due to microgravity or other causes. Also, Bioreactor Development System (BDS), composed of device developed at Johnson Space Center, used colon cancer cells to test bioreactor performance in microgravity; this experiment worked extremely well, yielding tissue cultures better than any seen previously.
+    
+    STS-70 marked first flight of new Block I main engine featuring new high-pressure liquid oxidizer turbopump built by Pratt & Whitney. Engine 2036 flew in number one position; other two main engines were of existing Phase II design.
+    
+    Crew consisted of Commander Terence T. Henricks, Pilot Kevin R. Kregel, Mission Specialists Nancy Jane Currie, Donald A. Thomas and Mary Ellen Weber.
+    
+</xml>
+

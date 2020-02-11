@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-83
+    Mission: MSL-1
+    Space Shuttle: Columbia
+    Launch Pad: 39A
+    Launched: April 4, 1997, 2:20:32 p.m. EST
+    Landing Site: Kennedy Space Center, Florida
+    Landing: April 8, 1997, 2:33:11 p.m. EDT
+    Mission Duration: 3 days, 23 hours, 13 minutes, 38 seconds
+    Orbit Altitude: 184 statute miles
+    Orbit Inclination: 28.45 degrees
+    
+    First flight of the Microgravity Science Laboratory-1 (MSL-1) cut short due to concerns about one of three fuel cells, marking only the third time in shuttle program history a mission ended early. (STS-2, 1981 and STS-44, 1991 were other two times).
+    
+    Crew was able to conduct some science in the MSL-1 Spacelab module despite the early return. Work was performed in the German electromagnetic levitation furnace facility (TEMPUS) on an experiment called Thermophysical Properties of Undercooled Metallic Melts. This experiment studies the amount of undercooling that can be achieved before solidification occurs. Another experiment performed was the Liquid-Phase Sintering II experiment in the Large Isothermal Furnace. This investigation uses heat and pressure to test theories about how the liquefied component bonds with the solid particles of a mixture without reaching the melting point of the new alloy combination.
+    
+    A decision to refly the mission in its entirety was made by the Mission Management Team in the days following Columbia's return. The reflight was first designated STS-83R and then renamed STS-94.
+    
+    Crew consisted of Commander James D. Halsell, Pilot Susan L. Still, Payload Commander Janice E. Voss, Mission Specialists Donald A. Thomas, Michael L. Gernhardt, Payload Specialists Roger Crouch and Greg Linteris.
+    
+</xml>
+
