@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    <sts stsNum=031">STS-31</sts>
+    <sts stsNum="031">STS-31</sts>
     <mission type="" org="">Mission: Hubble Space Telescope Deploy</mission>
     <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>

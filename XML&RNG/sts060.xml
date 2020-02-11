@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-60
-    Mission: WSF-1; SPACEHAB-2
-    Space Shuttle: Discovery
-    Launch Pad: 39A
-    Launched: February 3, 1994, 7:10:00 a.m. EST
-    Landing Site: Kennedy Space Center, Florida
-    Landing: February 11, 1994, 2:19:22 p.m. EST
-    Mission Duration: 8 days, 7 hours, 9 minutes, 22 seconds
-    Orbit Altitude: 191 nautical miles
-    Orbit Inclination: 57 degrees
+    <sts stsNum="060">STS-60</sts>
+    <mission type="" org="">Mission: WSF-1; SPACEHAB-2</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1994-02-03T07:10:00">Launched: February 3, 1994, 7:10:00 a.m. EST</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1994-02-11T14:19:22">Landing: February 11, 1994, 2:19:22 p.m. EST</land>
+    <duration time="P8DT7H9M22S">Mission Duration: 8 days, 7 hours, 9 minutes, 22 seconds</duration>
+    <altitude alt="191">Orbit Altitude: 191 nautical miles</altitude>
+    <inclination deg="57">Orbit Inclination: 57 degrees</inclination>
     
     First shuttle flight of 1994 marked the first flight of Russian cosmonaut on U.S. space shuttle as first element in implementing Agreement on NASA/Russian Space Agency Cooperation in Human Space Flight. Mission also marked second flight of SPACEHAB pressurized module and 100th Get Away Special payload to fly in space. Also on board was Wake Shield Facility-1 (WSF-1), making first in a planned series of flights.
     

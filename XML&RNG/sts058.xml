@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-58
-    Mission: SLS-2
-    Space Shuttle: Columbia
-    Launch Pad: 39B
-    Launched: October 18, 1993, 10:53 a.m. EDT
-    Landing Site: Edwards Air Force Base, Calif.
-    Landing: November 1, 1993, 07:05:42 a.m. PST
-    Mission Duration: 14 days, 0 hours, 12 minutes, 32 seconds
-    Orbit Altitude: 155 nautical miles
-    Orbit Inclination: 39 degrees
+    <sts stsNum="058">STS-58</sts>
+    <mission type="" org="">Mission: SLS-2</mission>
+    <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="29B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1993-10-18T10:53:00">Launched: October 18, 1993, 10:53 a.m. EDT</launch>
+    <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="1993-11-01T07:05:42">Landing: November 1, 1993, 07:05:42 a.m. PST</land>
+    <duration time="P14DT12M32S">Mission Duration: 14 days, 0 hours, 12 minutes, 32 seconds</duration>
+    <altitude alt="155">Orbit Altitude: 155 nautical miles</altitude>
+    <inclination deg="39">Orbit Inclination: 39 degrees</inclination>
     
     Second dedicated Spacelab Life Sciences mission (SLS- 2). Fourteen experiments conducted in four areas: regulatory physiology, cardiovascular/cardiopulmonary, musculoskeletal and neuroscience. Eight of the experiments focused on crew; six on 48 rodents. Crew collected more than 650 different samples from themselves and rodents, increasing statistical base for life sciences research. Combined data from SLS-1 and SLS-2 will help build comprehensive picture of how humans and animals adapt to weightlessness.
     

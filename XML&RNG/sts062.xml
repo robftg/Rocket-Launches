@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-62
-    Mission: USMP-2; OAST-2
-    Space Shuttle: Columbia
-    Launch Pad: 39B
-    Launched: March 4, 1994; 8:53:00 a.m. EST
-    Landing Site: Kennedy Space Center, Florida
-    Landing: March 18, 1994 at 8:09:41 a.m. EST
-    Mission Duration: 13 days, 23 hours, 16 minutes, 41 seconds
-    Orbit Altitude: 163 nautical miles
-    Orbit Inclination: 39 degrees
+    <sts stsNum="062">STS-62</sts>
+    <mission type="" org="">Mission: USMP-2; OAST-2</mission>
+    <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1994-03-04T08:53:00">Launched: March 4, 1994; 8:53:00 a.m. EST</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1994-03-18T08:09:41">Landing: March 18, 1994 at 8:09:41 a.m. EST</land>
+    <duration time="P13DT23H16M41S">Mission Duration: 13 days, 23 hours, 16 minutes, 41 seconds</duration>
+    <altitude alt="163">Orbit Altitude: 163 nautical miles</altitude>
+    <inclination deg="39">Orbit Inclination: 39 degrees</inclination>
     
     Primary payloads were U.S. Microgravity Payload-2 (USMP- 2) and Office of Aeronautics and Space Technology-2 (OAST- 2). USMP-2 included five experiments investigating materials processing and crystal growth in microgravity, while OAST-2 featured six experiments focusing on space technology and spaceflight. Both payloads were located in the payload bay, activated by crew and operated by teams on the ground. USMP-2 experiments received emphasis at beginning of flight; later in mission Columbia's orbit lowered about 20 nautical miles to facilitate OAST-2 experiments.
     

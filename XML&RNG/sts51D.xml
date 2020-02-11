@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="51D">STS-51D</sts>
     <mission type="" org="">Mission: TELSAT-I, Communications Satellite SYNCOM IV-3</mission>
     <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
-    <launchpad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1985-04-12T08:59:05">Launched: April 12, 1985 at 8:59:05 a.m. EST</launch>
     <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
     <land eDateTime="1985-04-19T08:54:28">Landing: April 19, 1985 at 8:54:28 a.m. EST</land>

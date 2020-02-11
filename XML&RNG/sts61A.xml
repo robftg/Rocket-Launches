@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="61A">STS-61A</sts>
     <mission type="" org="">Mission:D-1 Spacelab Mission (First German Dedicated Spacelab)</mission>
     <orbiter oName="challenger">Space Shuttle: Challenger</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
-    <launch sDateTime="1985-10-30T24:00:00">Launched: October 30, 1985, 12:00:00 p.m. EST</launch>
+    <launch sDateTime="1985-10-30T12:00:00">Launched: October 30, 1985, 12:00:00 p.m. EST</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
     <land eDateTime="1985-11-06T09:44:53">Landing: November 6, 1985, 9:44:53 a.m. PST</land>
     <duration time="P7DT44M51S">Mission Duration: 7 days, 0 hours, 44 minutes, 51 seconds</duration>

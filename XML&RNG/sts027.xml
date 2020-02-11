@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
   <sts stsNum="027">STS-27</sts>
   <mission type="classified" org="dod">Mission: Department of Defense</mission>
-  <orbiter oName="Atlantis">Space Shuttle: Atlantis</orbiter>
+  <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
   <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
   <launch sDateTime="1988-12-02T09:30:34">Launched: Dec. 2, 1988, 9:30:34 a.m. EST</launch>
   <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>

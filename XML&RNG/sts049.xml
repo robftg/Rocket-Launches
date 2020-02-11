@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-49
-    Mission: Intelsat VI Repair
-    Space Shuttle: Endeavour
-    Launch Pad: 39B
-    Launched: May 7, 1992, 7:40 p.m. EDT
-    Landing Site: Edwards Air Force Base, Calif.
-    Landing: May 16, 1992, 1:57:38 p.m. PDT
-    Mission Duration: 8 days, 21 hours, 17 minutes, 38 seconds
-    Orbit Altitude: 195 nautical miles
-    Orbit Inclination: 28.35 degrees
+    <sts stsNum="049">STS-49</sts>
+    <mission type="" org="">Mission: Intelsat VI Repair</mission>
+    <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1992-05-07T19:40:00">Launched: May 7, 1992, 7:40 p.m. EDT</launch>
+    <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="1992-05-16T13:57:38">Landing: May 16, 1992, 1:57:38 p.m. PDT</land>
+    <duration time="P8DT21H17M38S">Mission Duration: 8 days, 21 hours, 17 minutes, 38 seconds</duration>
+    <altitude alt="195">Orbit Altitude: 195 nautical miles</altitude>
+    <inclination deg="28.35">Orbit Inclination: 28.35 degrees</inclination>
     
     The INTELSAT VI (F-3) satellite, stranded in an unusable orbit since its launch aboard a Titan vehicle in March 1990, was captured by crewmembers during an EVA (extravehicular activity) and equipped with a new perigee kick motor. The satellite was subsequently released into orbit and the new motor fired to put the spacecraft into a geosynchronous orbit for operational use.
     

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="026">STS-26: Return to Flight</sts>
     <mission type="" org="" >Mission: TDRS-C</mission>
-    <orbiter oName="Discovery">Space Shuttle: Discovery</orbiter>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1988-09-29T11:37:00">Launched: Sept. 29, 1988, 11:37:00 a.m. EDT</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>

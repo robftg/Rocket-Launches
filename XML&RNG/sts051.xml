@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-51
-    Mission: ACTS/TOS; ORFEUS-SPAS
-    Space Shuttle: Discovery
-    Launch Pad: 39B
-    Launched: September 12, 1993, 7:45 a.m. EDT
-    Landing Site: Kennedy Space Center, Florida
-    Landing: September 22, 1993, 3:56 a.m. EDT
-    Mission Duration: 9 days, 20 hours, 11 minutes, 11 seconds
-    Orbit Altitude: 160 nautical miles
-    Orbit Inclination: 28.45 degrees
+    <sts stsNum="051">STS-51</sts>
+    <mission type="" org="">Mission: ACTS/TOS; ORFEUS-SPAS</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1993-09-12T07:45:00">Launched: September 12, 1993, 7:45 a.m. EDT</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1993-09-22T03:56:00">Landing: September 22, 1993, 3:56 a.m. EDT</land>
+    <duration time="P9DT20H11M11S">Mission Duration: 9 days, 20 hours, 11 minutes, 11 seconds</duration>
+    <altitude alt="160">Orbit Altitude: 160 nautical miles</altitude>
+    <inclination deg="28.45">Orbit Inclination: 28.45 degrees</inclination>
     
     One of two primary payloads, Advanced Communications Technology Satellite (ACTS), deployed on flight day one. About 45 minutes after ACTS deploy, attached Transfer Orbit Stage (TOS) booster — flying on the shuttle for the first time — fired to propel pioneering communications technology spacecraft to geosynchronous transfer orbit.
     

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="51F">STS-51F</sts>
     <mission type="" org="">Mission: Spacelab-2</mission>
@@ -6,7 +7,7 @@
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1985-07-29T17:00:00">Launched: July 29, 1985 at 5:00:00 p.m. EDT</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
-    <land eDateTime="1985-08-06T24:45:26">Landing: August 6, 1985 at 12:45:26 p.m. PDT</land>
+    <land eDateTime="1985-08-06T12:45:26">Landing: August 6, 1985 at 12:45:26 p.m. PDT</land>
     <duration time="P7DT22H45M26S">Mission Duration: 7 days, 22 hours, 45 minutes, 26 seconds</duration>
     <altitude alt="173">Orbit Altitude: 173 nautical miles</altitude>
     <inclination deg="49.5">Orbit Inclination: 49.5 degrees</inclination>

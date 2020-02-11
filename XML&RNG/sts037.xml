@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="037">STS-37</sts>
     <mission type="" org="">Mission: Gamma Ray Observatory</mission>
@@ -6,8 +7,8 @@
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1991-04-05T09:22:44">Launched: April 5, 1991, 9:22:44 a.m. EST</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
-    <land eDateTime="1991-04-1991T06:55:29">Landing: April 11, 1991, 6:55:29 a.m. EST</land>
-    <duration time="P05T23H32M44S">Mission Duration: 5 days, 23 hours, 32 minutes, 44 seconds</duration>
+    <land eDateTime="1991-04-11T06:55:29">Landing: April 11, 1991, 6:55:29 a.m. EST</land>
+    <duration time="P5DT23H32M44S">Mission Duration: 5 days, 23 hours, 32 minutes, 44 seconds</duration>
     <altitude alt="248">Orbit Altitude: 248 nautical miles</altitude>
     <inclination deg="28.45">Orbit Inclination: 28.45 degrees</inclination>
     

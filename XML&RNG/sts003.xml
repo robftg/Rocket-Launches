@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="003">STS-3</sts>
     <mission type="" org="">Mission: Third Shuttle Mission/Office of Space Science-1 (OSS-1)</mission>
-    <orbiter oNam="columbia">Space Shuttle: Columbia</orbiter>
-    <launchPad sBase="" padNum="39A">Launch Pad: 39A</launchPad>
+    <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1982-03-22T11:00:00">Launched: March 22, 1982 at 11:00:00 a.m. EST</launch>
     <landPad eBase="whiteSands">Landing Site: White Sands, New Mexico</landPad>
     <land eDateTime="1982-03-30T09:04:46">Landing: March 30, 1982 at 9:04:46 a.m. MST</land>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-53
-    Mission: DOD; ODERACS
-    Space Shuttle: Discovery
-    Launch Pad: 39A
-    Launched: December 2, 1992, 8:24 a.m. EST
-    Landing Site: Edwards Air Force Base, Calif.
-    Landing: December 9, 1992, 12:43:47 p.m. PST
-    Mission Duration: 7 days, 7 hours, 19 minutes, 47 seconds
-    Orbit Altitude: 174 nautical miles
-    Orbit Inclination: 57 degrees
+    <sts stsNum="053">STS-53</sts>
+    <mission type="" org="dod">Mission: DOD; ODERACS</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1992-12-02T08:24:00">Launched: December 2, 1992, 8:24 a.m. EST</launch>
+    <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="1992-12-09T12:43:47">Landing: December 9, 1992, 12:43:47 p.m. PST</land>
+    <duration time="P7DT7H19M47S">Mission Duration: 7 days, 7 hours, 19 minutes, 47 seconds</duration>
+    <altitude alt="174">Orbit Altitude: 174 nautical miles</altitude>
+    <inclination deg="57">Orbit Inclination: 57 degrees</inclination>
     
     A classified Department of Defense primary payload, plus two unclassified secondary payloads and nine unclassified middeck experiments.
     

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="51A">STS-51A</sts>
     <mission type="" org="">Mission: TELESAT-H, Canadian communications satellite, SYNCOM IV-1 defense communications satellite</mission>

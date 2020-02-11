@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="006">STS-6</sts>
     <mission type="" org="">Mission: Tracking and Data Relay Satellite-1 (TDRS-1)/First Shuttle Space Walk</mission>
     <orbiter oName="challenger">Space Shuttle: Challenger</orbiter>
-    <launchPad sBase="" padNum="39A">Launch Pad: 39A</launchPad>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1983-04-04T13:30:00">Launched: April 4, 1983 at 1:30:00 p.m. EST</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
     <land eDateTime="1983-04-09T10:53:42">Landing: April 9, 1983 at 10:53:42 a.m. PST</land>
