@@ -3,7 +3,11 @@
 <xml>
     <sts stsNum="041">STS-41</sts>
     <mission type="" org="">Mission: Ulysses; SSBUV; ISAC</mission>
+<<<<<<< HEAD
     <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+=======
+    <orbiter oName="Discovery">Space Shuttle: Discovery</orbiter>
+>>>>>>> 4b6c59a34143717d6fc628d9090c59a0d098b23a
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1990-10-06T07:47:15">Launched: Oct. 6, 1990, 7:47:15 a.m. EDT</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
