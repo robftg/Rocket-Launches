@@ -12,8 +12,8 @@
     <altitude alt="166">Orbit Altitude: 166 nautical miles</altitude>
     <inclination deg="40.3">Orbit Inclination: 40.3 degrees</inclination>
     
-    Major systems tested successfully on first flight of Space Transportation System. Orbiter sustained tile damage on launch and from overpressure wave created by the solid rocket boosters. Subsequent modifications to the water sound suppression system eliminated the problem. A total of sixteen tiles were lost and 148 tiles were damaged.
+    <desc cargo="None">Major systems tested successfully on first flight of Space Transportation System. Orbiter sustained tile damage on launch and from overpressure wave created by the solid rocket boosters. Subsequent modifications to the water sound suppression system eliminated the problem. A total of sixteen tiles were lost and 148 tiles were damaged.
     
-    Crew consisted of Commander John W. Young and Pilot Robert L. Crippen. 
+        Crew consisted of Commander John W. Young and Pilot Robert L. Crippen.</desc>
 </xml>
 
