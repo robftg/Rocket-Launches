@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-70
-    Mission: TDRS-G
-    Space Shuttle: Discovery
-    Launch Pad: 39B
-    Launched: July 13, 1995 at 9:41:55.078 a.m. EDT
-    Landing Site: Kennedy Space Center, Florida
-    Landing: July 22, 1995 at 8:02 a.m. EDT
-    Mission Duration: 8 days, 22 hours, 20 minutes, 5 seconds
-    Orbit Altitude: 160 nautical miles
-    Orbit Inclination: 28.45 degrees
+    <sts stsNum="070">STS-70</sts>
+    <mission type="" org="">Mission: TDRS-G</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1995-07-13T09:41:55.078">Launched: July 13, 1995 at 9:41:55.078 a.m. EDT</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1995-07-22T08:02:00">Landing: July 22, 1995 at 8:02 a.m. EDT</land>
+    <duration time="P8DT22H20M5S">Mission Duration: 8 days, 22 hours, 20 minutes, 5 seconds</duration>
+    <altitude alt="160">Orbit Altitude: 160 nautical miles</altitude>
+    <inclination deg="28.45">Orbit Inclination: 28.45 degrees</inclination>
     
     Primary objective of the mission accomplished when Tracking and Data Relay Satellite-G deployed from orbiter payload bay about six hours after liftoff. Approximately one hour after deployment, Inertial Upper Stage (IUS) booster attached to TDRS-G completed first of two scheduled burns to place TDRS-G in geosynchronous orbit.
     

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-79
-    Mission: Fourth Shuttle-Mir Docking
-    Space Shuttle: Atlantis
-    Launch Pad: 39A
-    Launched: September 16, 1996, 4:54:49 a.m. EDT
-    Landing Site: Kennedy Space Center, Florida
-    Landing: September 26, 1996, 8:13:15 a.m. EDT
-    Mission Duration: 10 days, 3 hours, 18 minutes, 26 seconds
-    Orbit Altitude: 196-245 statute miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="079">STS-79</sts>
+    <mission type="" org="">Mission: Fourth Shuttle-Mir Docking</mission>
+    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1996-09-16T04:54:49">Launched: September 16, 1996, 4:54:49 a.m. EDT</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1996-09-26T08:13:15">Landing: September 26, 1996, 8:13:15 a.m. EDT</land>
+    <duration time="P10DT3H18M26S">Mission Duration: 10 days, 3 hours, 18 minutes, 26 seconds</duration>
+    <altitude alt="245">Orbit Altitude: 196-245 statute miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     STS-79 highlighted by return to Earth of U.S. astronaut Lucid after 188 days in space, first U.S. crew exchange aboard Russian Space Station Mir, and fourth Shuttle-Mir docking. Lucid’s long-duration spaceflight set new U.S. record as well as world record for a woman.
     

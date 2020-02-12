@@ -3,20 +3,12 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = xml
 xml = element xml{sts, mission, orbiter, launchPad, launch, landPad, land, duration, altitude, inclination, desc}
 sts = element sts{stsNum, text}
-<<<<<<< HEAD
 stsNum = attribute stsNum{xsd:integer}
-=======
-stsNum = attribute stsNum {xsd:integer}
->>>>>>> 4b6c59a34143717d6fc628d9090c59a0d098b23a
 mission = element mission{type, org, text}
 type = attribute type{text}
 org = attribute org{text}
 orbiter = element orbiter{oName, text}
-<<<<<<< HEAD
 oName = attribute oName{"challenger" | "atlantis" | "columbia" | "discovery" | "endeavour" | "enterprise"}
-=======
-oName = attribute oName{"Challenger" | "Atlantis" | "Columbia" | "Discovery" | "Endeavour" | "Enterprise"}
->>>>>>> 4b6c59a34143717d6fc628d9090c59a0d098b23a
 launchPad = element launchPad{sBase, padNum, text}
 sBase = attribute sBase{text}
 padNum = attribute padNum{text}
@@ -32,8 +24,6 @@ altitude = element altitude{alt, text}
 alt = attribute alt{xsd:integer | "C"}
 inclination = element inclination{deg, text}
 deg = attribute deg{xsd:decimal}
-<<<<<<< HEAD
-=======
 desc = element desc{cargo, text}
 cargo = attribute cargo{text}
->>>>>>> 4b6c59a34143717d6fc628d9090c59a0d098b23a
+

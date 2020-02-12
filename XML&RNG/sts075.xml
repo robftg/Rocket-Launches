@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-75
-    Mission: TSS-1R; USMP-3
-    Space Shuttle: Columbia
-    Launch Pad: 39B
-    Launched: February 22, 1996, 3:18:00 p.m. EST
-    Landing Site: Kennedy Space Center, Florida
-    Landing: March 9, 1996, 8:58:21 a.m. EST
-    Mission Duration: 15 days, 17 hours, 41 minutes, 25 seconds
-    Orbit Altitude: 160 nautical miles
-    Orbit Inclination: 28.45 degrees
+    <sts stsNum="075">STS-75</sts>
+    <mission type="" org="">Mission: TSS-1R; USMP-3</mission>
+    <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1996-02-22T15:18:00">Launched: February 22, 1996, 3:18:00 p.m. EST</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1996-03-09T08:58:21">Landing: March 9, 1996, 8:58:21 a.m. EST</land>
+    <duration time="P15DT17H41M25S">Mission Duration: 15 days, 17 hours, 41 minutes, 25 seconds</duration>
+    <altitude alt="160">Orbit Altitude: 160 nautical miles</altitude>
+    <inclination deg="28.45">Orbit Inclination: 28.45 degrees</inclination>
     
     Reflight of U.S./Italian Tethered Satellite System (TSS-1R) marred by loss of satellite on flight day three, although valuable scientific data was still gathered. Other primary payload, U.S. Microgravity Payload-3 (USMP-3), performed nominally. TSS considered primary payload at beginning of mission and USMP-3 primary following TSS operations.
     

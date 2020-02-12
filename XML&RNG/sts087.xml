@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-87
-    Mission: USMP-4; Spartan 201-04
-    Space Shuttle: Columbia
-    Launch Pad: 39B
-    Launched: November 19, 1997, 2:46:00 p.m. EST
-    Landing Site: Kennedy Space Center, Florida
-    Landing: December 5, 1997, 7:20:04 a.m. EST
-    Mission Duration: 15 days, 16 hours, 34 minutes, 4 seconds
-    Orbit Altitude: 150 nautical miles
-    Orbit Inclination: 28.45 degrees
+    <sts stsNum="087">STS-87</sts>
+    <mission type="" org="">Mission: USMP-4; Spartan 201-04</mission>
+    <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1997-11-19T14:46:00">Launched: November 19, 1997, 2:46:00 p.m. EST</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1997-12-05T07:20:04">Landing: December 5, 1997, 7:20:04 a.m. EST</land>
+    <duration time="P15DT16H34M4S">Mission Duration: 15 days, 16 hours, 34 minutes, 4 seconds</duration>
+    <altitude alt="150">Orbit Altitude: 150 nautical miles</altitude>
+    <inclination deg="28.45">Orbit Inclination: 28.45 degrees</inclination>
     
     Primary payload of the flight, the U.S. Microgravity Payload-4, performed well. Research using other major payload, SPARTAN-201-04 free-flyer, was not completed.
     

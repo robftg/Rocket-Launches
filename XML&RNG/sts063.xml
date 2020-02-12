@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    <sts>STS-63</sts>
-    Mission: SPACEHAB-3
-    Space Shuttle: Discovery
-    Launch Pad: 39B
-    Launched: February 3, 1995, 12:22:04 a.m. EST
-    Landing Site: Kennedy Space Center, Florida
-    Landing: February 11, 1995, 6:50:19 a.m. EST
-    Mission Duration: 8 days, 6 hours, 28 minutes, 15 seconds
-    Orbit Altitude: 213 nautical miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="063">STS-63</sts>
+    <mission type="" org="">Mission: SPACEHAB-3</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1995-02-03T00:22:04">Launched: February 3, 1995, 12:22:04 a.m. EST</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1995-02-11T06:50:19">Landing: February 11, 1995, 6:50:19 a.m. EST</land>
+    <duration time="P8DT6H28M15S">Mission Duration: 8 days, 6 hours, 28 minutes, 15 seconds</duration>
+    <altitude alt="213">Orbit Altitude: 213 nautical miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     First shuttle flight of 1995 included several history-making achievements: First flight of a female shuttle pilot (Collins) and, as part of Phase I of International Space Station Program, second flight of Russian cosmonaut on shuttle and first approach and flyaround by shuttle with Russian space station Mir.
     

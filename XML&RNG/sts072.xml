@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-72
-    Mission: SFU; OAST-Flyer
-    Space Shuttle: Endeavour
-    Launch Pad: 39B
-    Launched: January 11, 1996, 4:41:00 a.m. EST
-    Landing Site: Kennedy Space Center, Florida
-    Landing: January 20, 1996, 2:41:41 a.m. EST
-    Mission Duration: 8 days, 22 hours, 1 minute, 47 seconds
-    Orbit Altitude: 250 nautical miles
-    Orbit Inclination: 28.45 degrees
+    <sts stsNum="072">STS-72</sts>
+    <mission type="" org="">Mission: SFU; OAST-Flyer</mission>
+    <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1996-01-11T04:41:00">Launched: January 11, 1996, 4:41:00 a.m. EST</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1996-01-20T02:41:41">Landing: January 20, 1996, 2:41:41 a.m. EST</land>
+    <duration time="P8DT22H1M47S">Mission Duration: 8 days, 22 hours, 1 minute, 47 seconds</duration>
+    <altitude alt="250">Orbit Altitude: 250 nautical miles</altitude>
+    <inclination deg="28.45">Orbit Inclination: 28.45 degrees</inclination>
     
     First shuttle flight of 1996 highlighted by retrieval of a Japanese satellite, deployment and retrieval of a NASA science payload, and two spacewalks.
     

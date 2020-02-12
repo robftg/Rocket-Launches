@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-86
-    Mission: Seventh Shuttle-Mir Docking
-    Space Shuttle: Atlantis
-    Launch Pad: 39A
-    Launched: September 25, 1997, 10:34:19 p.m. EDT
-    Landing Site: Kennedy Space Center, Florida
-    Landing: October 6, 1997, 5:55:09 p.m. EDT
-    Mission Duration: 10 days, 19 hours, 20 minutes, 50 seconds
-    Orbit Altitude: 184 statute miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="086">STS-86</sts>
+    <mission type="" org="">Mission: Seventh Shuttle-Mir Docking</mission>
+    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1997-09-25T22:34:19">Launched: September 25, 1997, 10:34:19 p.m. EDT</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1997-10-06T17:55:09">Landing: October 6, 1997, 5:55:09 p.m. EDT</land>
+    <duration time="P10DT19H20M50S">Mission Duration: 10 days, 19 hours, 20 minutes, 50 seconds</duration>
+    <altitude alt="184">Orbit Altitude: 184 statute miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     The seventh Mir docking mission continued the presence of a U.S. astronaut on the Russian space station with the transfer of physician David A. Wolf to Mir. Wolf became the sixth U.S. astronaut in succession to live on Mir to continue Phase 1B of the NASA/Russian Space agency cooperative effort.
     

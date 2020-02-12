@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-71
-    Mission: First Shuttle-Mir Docking
-    Space Shuttle: Atlantis
-    Launch Pad: 39A
-    Launched: June 27, 1995, 3:32:19.044 p.m. EDT
-    Landing Site: Kennedy Space Center, Florida
-    Landing: July 7, 1995, 10:54:34 a.m. EDT
-    Mission Duration: 9 days, 19 hours, 22 minutes, 17 seconds
-    Orbit Altitude: 170 nautical miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="071">STS-71</sts>
+    <mission type="" org="">Mission: First Shuttle-Mir Docking</mission>
+    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1995-06-27T15:32:19.044">Launched: June 27, 1995, 3:32:19.044 p.m. EDT</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1995-07-07T10:54:34">Landing: July 7, 1995, 10:54:34 a.m. EDT</land>
+    <duration time="P9DT19H22M17S">Mission Duration: 9 days, 19 hours, 22 minutes, 17 seconds</duration>
+    <altitude alt="170">Orbit Altitude: 170 nautical miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     STS-71 marked a number of historic firsts in human spaceflight: 100th U.S. human space launch conducted from the Cape; first U.S. space shuttle-Russian Space Station Mir docking and joint on-orbit operations; largest spacecraft ever in orbit; and first on-orbit changeout of shuttle crew.
     

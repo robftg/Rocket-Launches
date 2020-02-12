@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-84
-    Mission: Sixth Shuttle-Mir Docking
-    Space Shuttle: Atlantis
-    Launch Pad: 39A
-    Launched: May 15, 1997 4:07:48 a.m. EDT
-    Landing Site: Kennedy Space Center, Florida
-    Landing: May 24, 1997, 9:27:44 a.m. EDT
-    Mission Duration: 9 days, 23 hours, 19 minutes, 56 seconds
-    Orbit Altitude: 184 statute miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="084">STS-84</sts>
+    <mission type="" org="">Mission: Sixth Shuttle-Mir Docking</mission>
+    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1997-05-15T04:07:48">Launched: May 15, 1997 4:07:48 a.m. EDT</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1997-05-24T09:27:44">Landing: May 24, 1997, 9:27:44 a.m. EDT</land>
+    <duration time="P9DT23H19M56S">Mission Duration: 9 days, 23 hours, 19 minutes, 56 seconds</duration>
+    <altitude alt="184">Orbit Altitude: 184 statute miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     Sixth Shuttle-Mir docking highlighted by transfer of fourth successive U.S. crew member to the Russian Space Station. U.S. astronaut Mike Foale exchanged places with Jerry Linenger, who arrived at Mir Jan. 15 with the crew of shuttle mission STS-81.
     

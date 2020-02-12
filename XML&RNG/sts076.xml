@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-76
-    Mission: Third Shuttle-Mir Docking; SPACEHAB
-    Space Shuttle: Atlantis
-    Launch Pad: 39B
-    Launched: March 22, 1996, 3:13:04 a.m. EST
-    Landing Site: Edwards Air Force Base, Calif.
-    Landing: March 31, 1996, 5:28:57 a.m. PST
-    Mission Duration: 9 days, 5 hours, 15 minutes, 53 seconds
-    Orbit Altitude: 160 nautical miles
-    Orbit Inclination: 56.1 degrees
+    <sts stsNum="076">STS-76</sts>
+    <mission type="" org="">Mission: Third Shuttle-Mir Docking; SPACEHAB</mission>
+    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1996-03-22T03:13:04">Launched: March 22, 1996, 3:13:04 a.m. EST</launch>
+    <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="1996-03-31T05:28:57">Landing: March 31, 1996, 5:28:57 a.m. PST</land>
+    <duration time="P9DT5H15M53S">Mission Duration: 9 days, 5 hours, 15 minutes, 53 seconds</duration>
+    <altitude alt="160">Orbit Altitude: 160 nautical miles</altitude>
+    <inclination deg="56.1">Orbit Inclination: 56.1 degrees</inclination>
     
     Third linkup between U.S. space shuttle and Russian Space Station Mir highlighted by transfer of veteran astronaut Shannon Lucid to Mir to become first American woman to live on station. Her approximately four-and-a-half month stay also will eclipse long-duration U.S. spaceflight record set by first American to live on Mir, Norm Thagard.
     

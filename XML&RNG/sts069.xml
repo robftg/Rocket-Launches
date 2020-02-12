@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-69
-    Mission: SPARTAN 201-03; WSF-2
-    Space Shuttle: Endeavour
-    Launch Pad: 39A
-    Launched: September 7, 1995 at 11:09:00.052 a.m. EDT
-    Landing Site: Kennedy Space Center, Florida
-    Landing: September 18, 1995 at 7:37:56 a.m. EDT
-    Mission Duration: 10 days, 20 hours, 28 minutes, 56 seconds
-    Orbit Altitude: 190 nautical miles
-    Orbit Inclination: 28.4 degrees
+    <sts stsNum="069">STS-69</sts>
+    <mission type="" org="">Mission: SPARTAN 201-03; WSF-2</mission>
+    <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="1995-09-07T11:09:00">Launched: September 7, 1995 at 11:09:00.052 a.m. EDT</launch>
+    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
+    <land eDateTime="1995-09-18T07:37:56">Landing: September 18, 1995 at 7:37:56 a.m. EDT</land>
+    <duration time="P10DT20H28M56S">Mission Duration: 10 days, 20 hours, 28 minutes, 56 seconds</duration>
+    <altitude alt="190">Orbit Altitude: 190 nautical miles</altitude>
+    <inclination deg="28.4">Orbit Inclination: 28.4 degrees</inclination>
     
     STS-69 marked first time two different payloads were retrieved and deployed during the same mission. Also featured an extravehicular activity to practice for International Space Station activities and to evaluate space suit design modifications.
     
