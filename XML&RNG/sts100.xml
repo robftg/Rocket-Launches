@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-100
+    Mission: International Space Station Flight 6A
+    Space Shuttle: Endeavour
+    Launch Pad: 39A
+    Launched: April 19,  2001, 1:41 p.m. CDT
+    Launch Window: 10 minutes
+    EVAs: 2 spacewalks
+    Landing: May 1,  2001, 11:11 a.m. CDT
+    Mission Duration: 11 days, 21 hours, 30 minutes
+    Orbit Altitude: 173 nautical miles
+    Orbit Inclination: 51.6 degrees
+    
+    Endeavour and its crew spent almost 12 days on orbit, eight of which were spent in joint operations with the International Space Station crew. Endeavour's crew delivered and installed a new robotic arm and helped to transfer equipment and supplies between vehicles.
+    
+    The International Space Station's three Command and Control Computers began to exhibit problems during Endeavour's visit. After flight controllers determined that the hard drive on one Command and Control Computer had failed, space station Flight Engineer Susan Helms swapped it with another onboard computer. After reloading software, all three computers booted up normally. Endeavour brought the failed computer back to Earth for more testing.
+    
+    Crew consisted of Commander Kent Rominger, Pilot Jeffrey Ashby, Mission Specialists Chris Hadfield, Scott Parazynski, John Phillips, Umberto Guidoni and Yuri Lonchakov.
+    
+</xml>
+

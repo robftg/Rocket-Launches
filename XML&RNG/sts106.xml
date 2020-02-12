@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-106
+    Mission: International Space Station Flight 2A.2b
+    Space Shuttle: Atlantis
+    Launch Pad: 39B
+    Launched: Sept. 8,  2000, 7:46 a.m. CDT
+    Launch Window: 2 1/2 minutes
+    Landing: Sept. 20, 2000 2:56 a.m. CDT
+    Mission Duration: 11 days, 19 hours, 10 minutes
+    Orbit Altitude: 177 nautical miles
+    Orbit Inclination: 51.6 degrees
+    
+    Space Shuttle Atlantis spent nearly 12 days in orbit during September 2000, seven of which were spent docked with the International Space Station.
+    
+    The international crew of seven included Commander Terry Wilcutt, Pilot Scott Altman and Mission Specialists Richard Mastracchio, Edward Lu, Boris Morukov and Yuri Malenchenko. Cosmonauts Morukov and Malenchenko represented the Russian Space Agency.
+    
+    While in orbit, the STS-106 crew successfully prepared the International Space Station for the arrival of the first permanent crew. Lu and Malenchenko performed a space walk to connect power, data and communications cables to the newly arrived Zvezda Service Module and the station.
+    
+</xml>
+

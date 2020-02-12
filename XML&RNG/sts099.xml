@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-99
+    Mission: Shuttle Radar Topography Mission
+    Space Shuttle: Endeavour
+    Launch Pad: 39-A
+    Launched: Feb. 11,  2000, 11:44 a.m. CST
+    Launch Window: 2 hours, 2 minutes
+    Landing: Feb. 22,  2000, 5:22 p.m. CST
+    Mission Duration: 11 days, 5 hours, 38 minutes
+    Orbit Altitude: 126 nautical miles
+    Orbit Inclination: 57 degrees
+    
+    The main objective of STS-99 was to obtain the most complete high-resolution digital topographic database of the Earth.
+    
+    The Shuttle Radar Topography Mission, or SRTM, was an international project spearheaded by the National Imagery and Mapping Agency and NASA, with participation of the German Aerospace Center, DLR. SRTM consisted of a specially modified radar system that flew onboard the space shuttle during STS-99. This radar system gathered data that produced unrivaled 3-D images of the Earth's surface.
+    
+    When the radar was retracted, more than 222 hours of around-the-clock radar mapping operations had been completed. This extremely large amount of information is enough to fill more than 20,000 CDs.
+    
+    Crew consisted of Commander Kevin R. Kregel, Pilot Dominic L. Pudwill Gorie, Mission Specialists Janet L. Kavandi, Janice E. Voss, Mamoru Mohri and Gerhard P. J. Thiele.
+    
+</xml>
+

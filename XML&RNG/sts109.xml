@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-109
+    Mission: Hubble Space Telescope Servicing
+    Space Shuttle: Columbia
+    Launch Pad: 39A
+    Launched: March 1,  2002, 5:22 a.m. CST
+    Launch Window: 62 minutes
+    EVAs: 5 spacewalks
+    Landing: March 12,  2002, 3:32 a.m. CST
+    Mission Duration: 10 days, 22 hours, 10 minutes
+    Orbit Altitude: 308 nautical miles
+    Orbit Inclination: 28.5 degrees
+    
+    The STS-109 crew — Altman, Carey and Mission Specialists Nancy Currie, John Grunsfeld, Rick Linnehan, Mike Massimino and Jim Newman — successfully completed the mission's objectives of servicing the Hubble Space Telescope. The upgrades and servicing by the crew leaves Hubble with a new power unit, a new camera and new solar arrays. This was the fourth shuttle mission dedicated to servicing Hubble. The next is scheduled for 2004.
+    
+    This was Columbia's 27th flight and its first since 1999 after undergoing modifications.
+    
+</xml>
+

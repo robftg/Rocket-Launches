@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-104
+    Mission: International Space Station Flight 7A
+    Space Shuttle: Atlantis
+    Launch Pad: 39B
+    Launched: July 12,  2001, 4:04 a.m. CDT
+    Launch Window: Less than 5 minutes
+    EVAs: 3 spacewalks
+    Landing: July 24,  2001, 10:39 p.m. CDT
+    Mission Duration: 12 days, 18 hours, 35 minutes
+    Orbit Altitude: 240 nautical miles
+    Orbit Inclination: 51.6 degrees
+    
+    Space Shuttle Atlantis spent 13 days in orbit, eight of those days docked with the International Space Station. While at the orbital outpost, the STS-104 crew delivered the Quest Airlock and installed it on the station's Unity Node.
+    
+    Crew consisted of Commander Steven Lindsey, Pilot Charles Hobaugh, Mission Specialists Michael Gernhardt, James Reilly and Janet Kavandi.
+    
+</xml>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    STS-101
+    Mission: International Space Station Flight 2A.2a
+    Space Shuttle: Atlantis
+    Launch Pad: 39A
+    Launched: May 19, 2000, 5:11 a.m. CDT
+    Launch Window: 5 minutes
+    EVAs: 1 spacewalk
+    Landing: May 29,  2000, 1:20 a.m. CDT
+    Mission Duration: 9 days, 20 hours, 9 minutes
+    Orbit Altitude: 173 nautical miles
+    Orbit Inclination: 51.6 degrees
+    
+    The seven-member crew included Commander James Halsell, Pilot Scott Horowitz and Mission Specialists Mary Ellen Weber, Susan Helms, Yury Usachev, James Voss and Jeff Williams. For Usachev — representing the Russian Space Agency — Voss and Helms, the short visit to the station was a preview of the much longer time they would spend aboard the outpost as the Expedition Two crew in 2001.
+    
+    While docked with the space station, the crew refurbished and replaced components in both the Zarya and Unity Modules. Voss and Williams performed a 6.5-hour space walk the day after docking to install a Russian Strela cargo boom on the outside of Zarya. They also replaced a faulty radio antenna and performed several other tasks in advance of space walks on future station assembly missions.
+    
+    On STS-101, Atlantis flew as the most updated space shuttle ever, outfitted with a new "glass cockpit" and other state-of-the-art upgrades to key systems, including more than 100 new modifications incorporated during a 10-month period at Boeing's Palmdale, Calif., shuttle factory in 1998.
+    
+</xml>
+
