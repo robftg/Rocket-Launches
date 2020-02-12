@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="001">STS-1</sts>
-    <mission type="" org="">Mission: First Shuttle Mission/Shuttle Systems Test Flight</mission>
+    <mission type="Test" org="NASA">Mission: First Shuttle Mission/Shuttle Systems Test Flight</mission>
     <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1981-04-12T07:00:03">Launched: April 12, 1981 at 7:00:03 a.m. EST</launch>
