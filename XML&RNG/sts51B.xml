@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="51B">STS-51B</sts>
-    <mission type="" org="">Mission:Spacelab-3</mission>
+    <mission type="spacelabConstruct" org="nasa">Mission:Spacelab-3</mission>
     <orbiter oName="challenger">Space Shuttle: Challenger</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1985-04-29T12:02:18">Launched: April 29, 1985 at 12:02:18 p.m. EDT</launch>
@@ -12,9 +12,9 @@
     <altitude alt="222">Orbit Altitude: 222 nautical miles</altitude>
     <inclination deg="57">Orbit Inclination: 57 degrees</inclination>
     
-    The primary payload was Spacelab-3. This was the first operational flight for the Spacelab orbital laboratory series developed by the European Space Agency. Spacelab includes five basic discipline areas: materials sciences, life sciences, fluid mechanics, atmospheric physics, and astronomy. The main mission objective with Spacelab-3 was to provide a high quality microgravity environment for delicate materials processing and fluid experiments. Two monkeys and 24 rodents were observed for the effects of weightlessness. Of the 15 Spacelab primary experiments conducted, 14 were considered successful. Two Get Away Specials were on board.
+    </desc cargo="spacelab-3">The primary payload was Spacelab-3. This was the first operational flight for the Spacelab orbital laboratory series developed by the European Space Agency. Spacelab includes five basic discipline areas: materials sciences, life sciences, fluid mechanics, atmospheric physics, and astronomy. The main mission objective with Spacelab-3 was to provide a high quality microgravity environment for delicate materials processing and fluid experiments. Two monkeys and 24 rodents were observed for the effects of weightlessness. Of the 15 Spacelab primary experiments conducted, 14 were considered successful. Two Get Away Specials were on board.
     
-    Crew consisted of Commander Robert F. Overmyer, Pilot Frederick D. Gregory, Mission Specialists Don L. Lind, Norman E. Thagard, William E. Thornton and Payload Specialists Lodewijk van den Berg and Taylor G. Wang.
+    Crew consisted of Commander Robert F. Overmyer, Pilot Frederick D. Gregory, Mission Specialists Don L. Lind, Norman E. Thagard, William E. Thornton and Payload Specialists Lodewijk van den Berg and Taylor G. Wang.</desc>
     
 </xml>
 
