@@ -27,3 +27,14 @@ body{
     /* Debugging Code Below */
     border: 1px solid blue;
 }
+
+.left, .right{
+    display: flex;
+    height: 80vh;
+    width: 50vw;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    
+    /* Debugging Code Below */
+    border: 1px solid black;
+}
