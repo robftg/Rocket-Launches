@@ -1,0 +1,29 @@
+body{
+    background-color: #616163;
+    font-size: 18px;
+    font-family: Verdana, Geneva, sans-serif;
+    
+}
+
+.header{
+    display: flex;
+    height: 10vh;
+    width: 100vw;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    
+    /* Debugging Code Below */
+    border: 1px solid black;
+}
+
+.cell{
+    display: flex;
+    height: 10vh;
+    width: 32vw;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    flex: 1 1 auto;
+    
+    /* Debugging Code Below */
+    border: 1px solid blue;
+}
