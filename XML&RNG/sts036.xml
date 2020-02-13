@@ -12,9 +12,9 @@
     <altitude alt="132">Orbit Altitude: 132 nautical miles</altitude>
     <inclination deg="62">Orbit Inclination: 62 degrees</inclination>
     
-    Sixth mission dedicated to the Department of Defense.
+    <desc cargo="classified">Sixth mission dedicated to the Department of Defense.
     
-    Crew consisted of Commander John O. Creighton, Pilot John H. Casper, Mission Specialists Richard M. Mullane, David C. Hilmers and Pierre J. Thuot.
+    Crew consisted of Commander John O. Creighton, Pilot John H. Casper, Mission Specialists Richard M. Mullane, David C. Hilmers and Pierre J. Thuot.</desc>
     
 </xml>
 
