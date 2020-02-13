@@ -12,9 +12,9 @@
     <altitude alt="319">Orbit Altitude: 319 nautical miles</altitude>
     <inclination deg="28.5">Orbit Inclination: 28.5 degrees</inclination>
     
-    The launch was delayed 22 minutes, 30 seconds due to a main engine liquid hydrogen prevalve close remote power controller showing a faulty 'on' indication. This was the second mission dedicated to the Department of Defense.
+    <desc cargo="classified">The launch was delayed 22 minutes, 30 seconds due to a main engine liquid hydrogen prevalve close remote power controller showing a faulty 'on' indication. This was the second mission dedicated to the Department of Defense.
     
-    Crew consisted of Commander Karol J. Bobko, Pilot Ronald J. Grabe, Mission Specialists David C. Hilmers, Robert L. Stewart and William A. Pailes.
+    Crew consisted of Commander Karol J. Bobko, Pilot Ronald J. Grabe, Mission Specialists David C. Hilmers, Robert L. Stewart and William A. Pailes.</desc>
     
     
 </xml>
