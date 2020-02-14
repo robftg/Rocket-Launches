@@ -2,14 +2,6 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="101">STS-101</sts>
-<<<<<<< HEAD
-    <mission type="" org="">Mission: International Space Station Flight 2A.2a</mission>
-    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
-    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
-    <launch sDateTime="2000-05-19T05:11:00">Launched: May 19, 2000, 5:11 a.m. CDT</launch>
-    <land eDateTime="2000-05-29T01:20:00">Landing: May 29,  2000, 1:20 a.m. CDT</land>
-    <duration time="P9DT20H9M">Mission Duration: 9 days, 20 hours, 9 minutes</duration>
-=======
     <mission type="issConstruct" org="international">Mission: International Space Station Flight 2A.2a</mission>
     <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
     <launchPad sBase="kennedySpaceCenter">Launch Pad: 39A</launchPad>
@@ -17,7 +9,6 @@
     <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center</landPad>
     <land eDateTime="2000-05-29T00:20:00">Landing: May 29,  2000, 12:20 a.m. EDT</land>
     <duration time="P9DT20H9M0S">Mission Duration: 9 days, 20 hours, 9 minutes</duration>
->>>>>>> c66559f06d57ede35dde0b066bf22ad9085b2caa
     <altitude alt="173">Orbit Altitude: 173 nautical miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
