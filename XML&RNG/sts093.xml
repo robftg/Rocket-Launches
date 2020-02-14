@@ -2,8 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="093">STS-93</sts>
-<<<<<<< HEAD
-    <mission type="" org="">Mission: Chandra X-Ray Observatory Deployment</mission>
+    <mission type="satLaunch" org="nasa">Mission: Chandra X-Ray Observatory Deployment</mission>
     <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1999-07-22T23:31:00">Launched: July 22, 1999, 11:31 p.m. CDT</launch>
@@ -12,20 +11,8 @@
     <duration time="P4DT22H50M">Mission Duration: 4 days, 22 hours, 50 minutes</duration>
     <altitude alt="145">The altitude was approximately 145 nautical miles</altitude>
     <inclination deg="28.45">The degree of inclination was 28.45</inclination>
-    The purpose of the five-day mission was to deploy the Chandra X-Ray Observatory.
-=======
-    <mission type="satLaunch" org="nasa">Mission: Chandra X-Ray Observatory Deployment</mission>
-    <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
-    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
-    <launch sDateTime="1999-07-22T24:31:00">Launched: July 22, 1999, 12:31 p.m. EDT</launch>
-    <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
-    <land eDateTime="1999-07-27T23:20:00">Landing: July 27, 1999, 11:20 pm EDT</land>
-    <duration time="P4DT22H50M0S">Mission Duration: 4 days, 22 hours, 50 minutes</duration>
-    <altitude alt="145">Altitude of 145 nauitcal miles</altitude>
-    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     <desc cargo="Chandra">The purpose of the five-day mission was to deploy the Chandra X-Ray Observatory.
->>>>>>> c66559f06d57ede35dde0b066bf22ad9085b2caa
     
     However, when Columbia reached orbit, it was 11 kilometers (7 miles) short of its target. This was due to premature main engine cutoff an instant before the scheduled cutoff. Columbia eventually reached its proper altitude and continued its mission.
     
