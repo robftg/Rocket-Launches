@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="047">STS-47</sts>
-    <mission type="" org="">Mission: Spacelab-J</mission>
+    <mission type="spacelabConstruct" org="nasa">Mission: Spacelab-J</mission>
     <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1992-09-12T10:23:00">Launched: September 12, 1992, 10:23:00 a.m. EDT</launch>
@@ -12,9 +12,9 @@
     <altitude alt="166">Orbit Altitude: 166 nautical miles</altitude>
     <inclination deg="57">Orbit Inclination: 57 degrees</inclination>
     
-    Spacelab-J — a joint NASA and National Space Development Agency of Japan (NASDA) mission utilizing a manned Spacelab module — conducted microgravity investigations in materials and life sciences. The international crew, consisting of the first Japanese astronaut to fly aboard the shuttle (Mohri), the first African-American woman to fly in space (Jemison) and the first married couple to fly on the same space mission (Davis & Lee), was divided into red and blue teams for around the clock operations. Spacelab-J included 24 materials science and 20 life sciences experiments, of which 35 were sponsored by NASDA, 7 by NASA and two collaborative efforts.
+    <desc cargo="spacelab-J">Spacelab-J — a joint NASA and National Space Development Agency of Japan (NASDA) mission utilizing a manned Spacelab module — conducted microgravity investigations in materials and life sciences. The international crew, consisting of the first Japanese astronaut to fly aboard the shuttle (Mohri), the first African-American woman to fly in space (Jemison) and the first married couple to fly on the same space mission (Davis & Lee), was divided into red and blue teams for around the clock operations. Spacelab-J included 24 materials science and 20 life sciences experiments, of which 35 were sponsored by NASDA, 7 by NASA and two collaborative efforts.
     
-    Crew consisted of Commander Robert L. Gibson, Pilot Curtis L. Brown Jr., Mission Specialists Mark C. Lee, N. Jan Davis, Jay Apt, Mae C. Jemison and Payload Specialist Mamoru Mohri.
+    Crew consisted of Commander Robert L. Gibson, Pilot Curtis L. Brown Jr., Mission Specialists Mark C. Lee, N. Jan Davis, Jay Apt, Mae C. Jemison and Payload Specialist Mamoru Mohri.</desc>
     
 </xml>
 

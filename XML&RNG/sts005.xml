@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="005">STS-5</sts>
-    <mission type="" org="">Mission: Commercial Communications Satellites (ANIK C-3)/Satellite Business Systems (SBS-C)</mission>
+    <mission type="satLaunch" org="business">Mission: Commercial Communications Satellites (ANIK C-3)/Satellite Business Systems (SBS-C)</mission>
     <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1982-11-11T07:19:00">Launched: Nov. 11, 1982 at 7:19:00 a.m. EST</launch>
@@ -12,9 +12,9 @@
     <altitude alt="184">Orbit Altitude: 184 nautical miles</altitude>
     <inclination deg="28.5">Orbit Inclination: 28.5 degrees</inclination>
     
-    This first shuttle operational mission deployed two commercial communications satellites, ANIK C-3 for TELESAT Canada and SitS-C for Satellite Business Systems. Each satellite was equipped with a Payload Assist Module-D (PAM-D) solid rocket motor, which fired about 45 minutes after deployment, placing each satellite into a highly elliptical orbit. One Get Away Special and three Shuttle Student Involvement Program (SSIP) experiments were conducted. The first scheduled space walk of the shuttle program was canceled due to a malfunction of the space suit.
+    <desc cargo="ANIK C-3, SitS-C">This first shuttle operational mission deployed two commercial communications satellites, ANIK C-3 for TELESAT Canada and SitS-C for Satellite Business Systems. Each satellite was equipped with a Payload Assist Module-D (PAM-D) solid rocket motor, which fired about 45 minutes after deployment, placing each satellite into a highly elliptical orbit. One Get Away Special and three Shuttle Student Involvement Program (SSIP) experiments were conducted. The first scheduled space walk of the shuttle program was canceled due to a malfunction of the space suit.
     
-    Crew consisted of Commander Vance D. Brand, Pilot Robert F. Overmyer and Mission Specialists Joseph P. Allen and William B. Lenoir.
+    Crew consisted of Commander Vance D. Brand, Pilot Robert F. Overmyer and Mission Specialists Joseph P. Allen and William B. Lenoir.</desc>
     
 </xml>
 

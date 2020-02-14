@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="51G">STS-51G</sts>
-    <mission type="" org="">Mission: MORELOS-A, ARABSAT-A and TELSTAR-3D Communications Satellites</mission>
+    <mission type="satLaunch" org="business">Mission: MORELOS-A, ARABSAT-A and TELSTAR-3D Communications Satellites</mission>
     <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1985-06-17T07:33:00">Launched: June 17, 1985 at 7:33:00 a.m. EDT</launch>
@@ -12,9 +12,9 @@
     <altitude alt="209">Orbit Altitude: 209 nautical miles</altitude>
     <inclination deg="28.45">Orbit Inclination: 28.45 degrees</inclination>
     
-    Three communications satellites, all attached to the Payload Assist Module-D (PAM-D) motors, were deployed: MORELOS-A, for Mexico; ARABSAT-A, for Arab Satellite Communications Organization; and TELSTAR-3D, for AT&T. Also flown: deployable/retrievable Shuttle Pointed Autonomous Research Tool for Astronomy (SPARTAN-1); six Get Away Special canisters; Strategic Defense Initiative experiment called the High Precision Tracking Experiment (HPTE); a materials processing furnace called Automated Directional Solidification Furnace (ADSF); and two French biomedical experiments.
+    <desc cargo="MORELOS-A, ARABSAT-A, TELSTAR-3D">Three communications satellites, all attached to the Payload Assist Module-D (PAM-D) motors, were deployed: MORELOS-A, for Mexico; ARABSAT-A, for Arab Satellite Communications Organization; and TELSTAR-3D, for AT&T. Also flown: deployable/retrievable Shuttle Pointed Autonomous Research Tool for Astronomy (SPARTAN-1); six Get Away Special canisters; Strategic Defense Initiative experiment called the High Precision Tracking Experiment (HPTE); a materials processing furnace called Automated Directional Solidification Furnace (ADSF); and two French biomedical experiments.
     
-    Crew consisted of Commander Daniel C. Brandenstein, Pilot John O. Creighton, Mission Specialists Shannon W. Lucid, John M. Fabian, Steven R. Nagel and Payload Specialists Patrick Baudry and Sultan Salman Al-Saud.
+    Crew consisted of Commander Daniel C. Brandenstein, Pilot John O. Creighton, Mission Specialists Shannon W. Lucid, John M. Fabian, Steven R. Nagel and Payload Specialists Patrick Baudry and Sultan Salman Al-Saud.</desc>
     
 </xml>
 

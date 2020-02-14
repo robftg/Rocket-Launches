@@ -12,9 +12,9 @@
     <altitude alt="220">Orbit Altitude: 220 nautical miles</altitude>
     <inclination deg="28.5">Orbit Inclination: 28.5 degrees</inclination>
     
-    This was the first mission dedicated to the Department of Defense. The U.S. Air Force Inertial Upper Stage (IUS) booster was deployed and met the mission objectives.
+    <desc cargo="classified">This was the first mission dedicated to the Department of Defense. The U.S. Air Force Inertial Upper Stage (IUS) booster was deployed and met the mission objectives.
     
-    Crew consisted of Commander Thomas K. Mattingly, II, Pilot Loren J. Shriver, Mission Specialists Ellison S. Onizuka, James F. Buchli and Payload Specialist Gary E. Payton.
+    Crew consisted of Commander Thomas K. Mattingly, II, Pilot Loren J. Shriver, Mission Specialists Ellison S. Onizuka, James F. Buchli and Payload Specialist Gary E. Payton.</desc>
     
 </xml>
 

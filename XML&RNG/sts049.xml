@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="049">STS-49</sts>
-    <mission type="" org="">Mission: Intelsat VI Repair</mission>
+    <mission type="satRepair" org="nasa">Mission: Intelsat VI Repair</mission>
     <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1992-05-07T19:40:00">Launched: May 7, 1992, 7:40 p.m. EDT</launch>
@@ -12,7 +12,7 @@
     <altitude alt="195">Orbit Altitude: 195 nautical miles</altitude>
     <inclination deg="28.35">Orbit Inclination: 28.35 degrees</inclination>
     
-    The INTELSAT VI (F-3) satellite, stranded in an unusable orbit since its launch aboard a Titan vehicle in March 1990, was captured by crewmembers during an EVA (extravehicular activity) and equipped with a new perigee kick motor. The satellite was subsequently released into orbit and the new motor fired to put the spacecraft into a geosynchronous orbit for operational use.
+    <desc cargo="none">The INTELSAT VI (F-3) satellite, stranded in an unusable orbit since its launch aboard a Titan vehicle in March 1990, was captured by crewmembers during an EVA (extravehicular activity) and equipped with a new perigee kick motor. The satellite was subsequently released into orbit and the new motor fired to put the spacecraft into a geosynchronous orbit for operational use.
     
     The capture required three EVAs: a planned one by astronaut Pierre J. Thuot and Richard J. Hieb who were unable to attach a capture bar to the satellite from a position on the RMS; a second unscheduled but identical attempt the following day; and finally an unscheduled but successful hand capture by Pierre J. Thuot and fellow crewmen Richard J. Hieb and Thomas D. Akers as Commander Daniel C. Brandenstein delicately maneuvered the orbiter to within a few feet of the 4.5 ton communications satellite. An ASEM structure was erected in the cargo bay by the crew to serve as a platform to aid in the hand capture and subsequent attachment of the capture bar.
     
@@ -25,7 +25,7 @@
     First shuttle mission requiring three rendezvous with an orbiting spacecraft.
     First attachment of a live rocket motor to an orbiting satellite.
     First use of a-drag chute during a shuttle landing.
-    Crew consisted of Commander Daniel C. Brandenstein, Pilot Kevin P. Chilton, Mission Specialists Pierre J. Thuot, Kathryn C. Thornton, Richard J. Hieb, Thomas D. Akers and Bruce E. Melnick.
+    Crew consisted of Commander Daniel C. Brandenstein, Pilot Kevin P. Chilton, Mission Specialists Pierre J. Thuot, Kathryn C. Thornton, Richard J. Hieb, Thomas D. Akers and Bruce E. Melnick.</desc>
     
 </xml>
 

@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="079">STS-79</sts>
-    <mission type="" org="">Mission: Fourth Shuttle-Mir Docking</mission>
+    <mission type="crewTransfer" org="nasa">Mission: Fourth Shuttle-Mir Docking</mission>
     <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1996-09-16T04:54:49">Launched: September 16, 1996, 4:54:49 a.m. EDT</launch>
@@ -12,7 +12,7 @@
     <altitude alt="245">Orbit Altitude: 196-245 statute miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
-    STS-79 highlighted by return to Earth of U.S. astronaut Lucid after 188 days in space, first U.S. crew exchange aboard Russian Space Station Mir, and fourth Shuttle-Mir docking. Lucid’s long-duration spaceflight set new U.S. record as well as world record for a woman.
+    <desc cargo="SPACEHAB">STS-79 highlighted by return to Earth of U.S. astronaut Lucid after 188 days in space, first U.S. crew exchange aboard Russian Space Station Mir, and fourth Shuttle-Mir docking. Lucid’s long-duration spaceflight set new U.S. record as well as world record for a woman.
     
     STS-79 also marked second flight of SPACEHAB module in support of Shuttle-Mir activities and first flight of SPACEHAB Double Module configuration.
     
@@ -20,7 +20,7 @@
     
     About 2,000 pounds (907 kilograms) of experiment samples and equipment transferred from Mir to Atlantis; total logistical transfer to and from station of more than 6,000 pounds (2,722 kilograms) was most extensive to date.
     
-    Crew consisted of Commander William F. Readdy, Pilot Terrence W. Wilcutt, Mission Specialists Thomas D. Akers, John E. Blaha, Jay Apt and Carl E. Walz.
+    Crew consisted of Commander William F. Readdy, Pilot Terrence W. Wilcutt, Mission Specialists Thomas D. Akers, John E. Blaha, Jay Apt and Carl E. Walz.</desc>
     
 </xml>
 

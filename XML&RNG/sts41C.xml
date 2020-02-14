@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="41C">STS-41C</sts>
-    <mission type="" org="">Mission: Long Duration Exposure Facility deploy, first on-orbit spacecraft repair</mission>
+    <mission type="satReapair" org="nasa">Mission: Long Duration Exposure Facility deploy, first on-orbit spacecraft repair</mission>
     <orbiter oName="challenger">Space Shuttle: Challenger</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1984-04-06T08:58:00">Launched: April 6, 1984 at 8:58:00 a.m. EST</launch>
@@ -12,9 +12,9 @@
     <altitude alt="313">Orbit Altitude: 313 nautical miles</altitude>
     <inclination deg="28.5">Orbit Inclination: 28.5 degrees</inclination>
     
-    The first direct ascent trajectory for space shuttle. Using the manned maneuvering unit, astronauts replaced the altitude control system and coronagraph/polarimeter electronics box in the Solar Max satellite while it remained in orbit. The Long Duration Exposure Facility (LDEF) was deployed, carrying 57 experiments which were left on orbit with an intention of retrieving them during a later mission. Other payloads on this mission were: IMAX camera; Radiation Monitoring Equipment (RME); Cinema 360; Shuttle Student Involvement Program (SSlP) experiment.
+    <desc cargo="experiments">The first direct ascent trajectory for space shuttle. Using the manned maneuvering unit, astronauts replaced the altitude control system and coronagraph/polarimeter electronics box in the Solar Max satellite while it remained in orbit. The Long Duration Exposure Facility (LDEF) was deployed, carrying 57 experiments which were left on orbit with an intention of retrieving them during a later mission. Other payloads on this mission were: IMAX camera; Radiation Monitoring Equipment (RME); Cinema 360; Shuttle Student Involvement Program (SSlP) experiment.
     
-    Crew consisted of Commander Robert L. Crippen, Pilot Francis R. Scobee, Mission Specialists Geroge D. Nelson, James D. A. Van Hoften and Terry J. Hart.
+    Crew consisted of Commander Robert L. Crippen, Pilot Francis R. Scobee, Mission Specialists Geroge D. Nelson, James D. A. Van Hoften and Terry J. Hart.</desc>
     
 </xml>
 

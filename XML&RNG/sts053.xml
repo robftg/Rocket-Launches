@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="053">STS-53</sts>
-    <mission type="" org="dod">Mission: DOD; ODERACS</mission>
+    <mission type="C" org="dod">Mission: DOD; ODERACS</mission>
     <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1992-12-02T08:24:00">Launched: December 2, 1992, 8:24 a.m. EST</launch>
@@ -12,11 +12,11 @@
     <altitude alt="174">Orbit Altitude: 174 nautical miles</altitude>
     <inclination deg="57">Orbit Inclination: 57 degrees</inclination>
     
-    A classified Department of Defense primary payload, plus two unclassified secondary payloads and nine unclassified middeck experiments.
+    <desc cargo="classified>A classified Department of Defense primary payload, plus two unclassified secondary payloads and nine unclassified middeck experiments.
     
     Secondary payloads contained in or attached to Get Away Special (GAS) hardware in the cargo bay included the Orbital Debris Radar Calibration Spheres (ODERACS) the combined Shuttle Glow Experiment/Cryogenic Heat Pipe Experiment (GCP).
     
-    Crew consisted of Commander David M. Walker, Pilot Robert D. Cabana, Mission Specialists Guion S. Bluford, Jr., James S. Voss and Michael R. Clifford.
+    Crew consisted of Commander David M. Walker, Pilot Robert D. Cabana, Mission Specialists Guion S. Bluford, Jr., James S. Voss and Michael R. Clifford.</desc>
     
 </xml>
 

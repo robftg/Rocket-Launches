@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="080">STS-80</sts>
-    <mission type="" org="">Mission: ORFEUS-SPAS II; WSF-3</mission>
+    <mission type="satLaunch" org="nasa">Mission: ORFEUS-SPAS II; WSF-3</mission>
     <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1996-11-19T14:55:47">Launched: November 19, 1996, 2:55:47 p.m. EST</launch>
@@ -12,7 +12,7 @@
     <altitude alt="218">Orbit Altitude: 218 statute miles</altitude>
     <inclination deg="18.45">Orbit Inclination: 28.45 degrees</inclination>
     
-    Final shuttle flight of 1996 was highlighted by the successful deployment, operation and retrieval of two free-flying research spacecraft. The two planned extravehicular activities (EVAs) were canceled.
+    <desc cargo="ORFEUS-SPAS II, WSF-3">Final shuttle flight of 1996 was highlighted by the successful deployment, operation and retrieval of two free-flying research spacecraft. The two planned extravehicular activities (EVAs) were canceled.
     
     Orbiting and Retrievable Far and Extreme Ultraviolet Spectrometer-Shuttle Pallet Satellite II (ORFEUS-SPAS II) deployed on flight day one to begin approximately two weeks of data- gathering. Making its second flight aboard the shuttle, ORFEUS-SPAS II featured three primary scientific instruments: the ORFEUS-Telescope with the Far Ultraviolet (FUV) Spectrograph and Extreme Ultraviolet (EUV) Spectrograph.
     
@@ -20,7 +20,7 @@
     
     Two planned six-hour EVAs by Jernigan and Jones were designed to evaluate equipment and procedures that will be used during construction and maintenance of the International Space Station. However, crew could not open outer airlock hatch and when troubleshooting did not reveal cause, mission managers concluded it would not be prudent to attempt the two EVAs and risk unnecessary damage to hatch or seals. Crew was able to evaluate new Pistol Grip Tool, similar to handheld drill, in middeck. Post-landing assessment of hatch indicated a small screw had become loose from an internal assembly and lodged in an actuator — a gearbox-type mechanism that operates linkages that secure the hatch —  preventing crew from opening hatch. Hatch opened easily when replacement actuator installed.
     
-    Crew consisted of Commander Kenneth D. Cockrell, Pilot Kent V. Rominger, Mission Specialists Tamara E. Jernigan, Thomas D. Jones and F. Story Musgrave.
+    Crew consisted of Commander Kenneth D. Cockrell, Pilot Kent V. Rominger, Mission Specialists Tamara E. Jernigan, Thomas D. Jones and F. Story Musgrave.</desc>
     
 </xml>
 

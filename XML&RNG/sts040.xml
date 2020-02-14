@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="040">STS-40</sts>
-    <mission type="" org="">Mission: Spacelab Life Sciences-1</mission>
+    <mission type="spacelabConstruct" org="nasa">Mission: Spacelab Life Sciences-1</mission>
     <orbiter oName="columbia">Space Shuttle: Columbia</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1991-06-05T09:24:51">Launched: June 5, 1991, 9:24:51 a.m. EDT</launch>
@@ -12,11 +12,11 @@
     <altitude alt="157">Orbit Altitude: 157 nautical miles</altitude>
     <inclination deg="39">Orbit Inclination: 39 degrees</inclination>
     
-    The fifth dedicated Spacelab mission, Spacelab Life Sciences-1, and first mission dedicated solely to life sciences, using the habitable module. The mission featured the most detailed and interrelated physiological measurements in space since 1973-1974 Skylab missions. Subjects were humans, 30 rodents and thousands of tiny jellyfish. Primarily the SLS-1 experiments studied six body systems; of 18 investigations, ten involved humans, seven involved rodents, and one used jellyfish.
+    <desc cargo="spacelab Life Sciences-1">The fifth dedicated Spacelab mission, Spacelab Life Sciences-1, and first mission dedicated solely to life sciences, using the habitable module. The mission featured the most detailed and interrelated physiological measurements in space since 1973-1974 Skylab missions. Subjects were humans, 30 rodents and thousands of tiny jellyfish. Primarily the SLS-1 experiments studied six body systems; of 18 investigations, ten involved humans, seven involved rodents, and one used jellyfish.
     
     The six body systems investigated were cardiovascular/cardiopulmonary (heart, lungs and blood vessels); renal/endocrine (kidneys and hormone-secreting organs and glands); blood (blood plasma); immune system (white blood cells); musculoskeletal (muscles and bones); and neurovestibular (brains and nerves, eyes and inner ear). Other payloads included twelve Get Away Special (GAS) canisters installed on the GAS bridge in the cargo bay for experiments in materials science, plant biology and cosmic radiation; Middeck Zero-Gravity Dynamics Experiment (MODE); and seven Orbiter Experiments (OEX).
     
-    Crew consisted of Commander Bryan D. O'Connor, Pilot Sidney M. Gutierrez, Mission Specialists James P. Bagian, Tamara E. Jernigan, M. Rhea Seddon, F. Drew Gaffney and Millie Hughes-Fulford.
+    Crew consisted of Commander Bryan D. O'Connor, Pilot Sidney M. Gutierrez, Mission Specialists James P. Bagian, Tamara E. Jernigan, M. Rhea Seddon, F. Drew Gaffney and Millie Hughes-Fulford.</des>
     
 </xml>
 
