@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="131">STS-131</sts>
-    <mission type="ISS Resupply" org="NASA">Mission: ISS resupply</mission>
+    <mission type="issResupply" org="nasa">Mission: ISS resupply</mission>
     <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="KSC" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
     <launch sDateTime="2010-04-21T06:21:00">Launched April 4th 2010 at 6:21 AM EST</launch>
