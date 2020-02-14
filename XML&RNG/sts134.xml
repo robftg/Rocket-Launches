@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="134">STS-134</sts>
-    <mission type="ISS Resupply" org="NASA">Mission: Endeavour' final flight, deleviery of supplies to the ISS</mission>
+    <mission type="issResupply" org="nasa">Mission: Endeavour' final flight, deleviery of supplies to the ISS</mission>
     <orbiter oName="Endeavour">Space Shuttle: Endeavour</orbiter>
     <launchPad sBase="KSC" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
     <launch sDateTime="2011-05-16T08:56:00">Launched May 16th, 2011 8:56 AM EST</launch>
