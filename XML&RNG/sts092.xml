@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-92
-    Mission: International Space Station Flight 3A
-    Space Shuttle: Discovery
-    Launch Pad: 39A
-    Launched: Oct. 11,  2000, 6:17 p.m. CDT
-    Launch Window: 5 minutes
-    EVAs: 4 spacewalks
-    Landing: Edwards Air Force Base, Calif.,
-    Mission Duration: 12 days, 21 hours, 43 minutes
-    Orbit Altitude: 177 nautical miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="092">STS-92</sts>
+    <mission type="issConstruct" org="international">Mission: International Space Station Flight 3A</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter">Launch Pad: 39A</launchPad>
+    <launch sDateTime="2000-10-11T19:17:00">Launched: Oct. 11,  2000, 7:17 p.m. EDT</launch>
+    <landPad eBase="edwardsAirForceBase">Landing: Edwards Air Force Base, Calif.</landPad>
+    <land eDateTime="2000-10-24T15:59:47">Landing: October 24th 2000, 3:59:47 p.m. EST</land>
+    <duration time="P12DT21H43M0S">Mission Duration: 12 days, 21 hours, 43 minutes</duration>
+    <altitude alt="177">Orbit Altitude: 177 nautical miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
-    STS-92 took its place in history Oct. 11, 2000, when Space Shuttle Discovery launched from the Kennedy Space Center, Fla., to begin the 100th flight of the space shuttle program.
+    <desc cargo="Z1 Truss, Pressureized Mating Adapter 3">STS-92 took its place in history Oct. 11, 2000, when Space Shuttle Discovery launched from the Kennedy Space Center, Fla., to begin the 100th flight of the space shuttle program.
     
     During STS-92, the crew delivered and installed the Z1 Truss and Pressurized Mating Adapter 3 to the International Space Station.
     
-    Onboard were seven astronauts — Commander Brian Duffy, Pilot Pam Melroy and Mission Specialists Leroy Chiao, Bill McArthur, Koichi Wakata, Jeff Wisoff and Mike Lopez-Alegria. Wakata represented the National Space Development Agency of Japan, or NASDA, for the second time in his career. During STS-72 in 1996, he became the first NASDA astronaut to fly as a mission specialist aboard the space shuttle.
+    Onboard were seven astronauts — Commander Brian Duffy, Pilot Pam Melroy and Mission Specialists Leroy Chiao, Bill McArthur, Koichi Wakata, Jeff Wisoff and Mike Lopez-Alegria. Wakata represented the National Space Development Agency of Japan, or NASDA, for the second time in his career. During STS-72 in 1996, he became the first NASDA astronaut to fly as a mission specialist aboard the space shuttle.</desc>
     
 </xml>
-
