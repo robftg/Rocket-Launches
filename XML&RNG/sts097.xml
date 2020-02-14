@@ -2,22 +2,13 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="097">STS-97</sts>
-<<<<<<< HEAD
-    <mission type="" org="">Mission: International Space Station Flight 4A</mission>
-    <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
-    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
-    <launch sDateTime="2000-11-30T21:06:00">Launched: Nov. 30,  2000, 9:06 p.m. CST</launch>
-    <land eDateTime="2000-12-11T17:03:00">Landing: Dec. 11,  2000, 5:03 p.m. CST</land>
-    <duration time="P10DT19H57M">Mission Duration: 10 days, 19 hours, 57 minutes</duration>
-=======
     <mission type="issConstruct" org="international">Mission: International Space Station Flight 4A</mission>
     <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
-    <launch sDateTime="2000-11-30T20:06:00">Launched: Nov. 30,  2000, 10:06 p.m. EST</launch>
+    <launch sDateTime="2000-11-30T21:06:00">Launched: Nov. 30,  2000, 9:06 p.m. CST</launch>
     <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center, Florida</landPad>
     <land eDateTime="2000-12-11T18:03:00">Landing: Dec. 11,  2000, 6:03 p.m. EST</land>
-    <duration time="P10DT19H57M0S">Mission Duration: 10 days, 19 hours, 57 minutes</duration>
->>>>>>> c66559f06d57ede35dde0b066bf22ad9085b2caa
+    <duration time="P10DT19H57M">Mission Duration: 10 days, 19 hours, 57 minutes</duration>
     <altitude alt="177">Orbit Altitude: 177 nautical miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
