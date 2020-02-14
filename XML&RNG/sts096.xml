@@ -6,6 +6,7 @@
     <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="1999-05-27T05:50:00">Launched: May 27, 1999, 5:50 a.m. CDT</launch>
+    <landPad eBase="kennedySpaceCenter">Landed: Kennedy Space Center, Florida </landPad>
     <land eDateTime="1999-06-06T01:03:00">Landing: June 6, 1999, 1:03 a.m. CDT</land>
     <duration time="P9DT13H19M">Mission Duration: 9 days, 13 hours, 19 minutes</duration>
     <altitude alt="210">Orbit Altitude: 210 nautical miles</altitude>
