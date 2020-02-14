@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="091">STS-91</sts>
-    <mission type="" org="">Mission: Ninth and Final Shuttle-Mir Docking</mission>
+    <mission type="crewTransfer" org="nasa">Mission: Ninth and Final Shuttle-Mir Docking</mission>
     <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="1998-06-02T18:06:24">Launched: June 2, 1998, 6:06:24 p.m. EDT</launch>
@@ -13,11 +13,11 @@
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     
-    Docking of Discovery to Mir, the first for that orbiter, occurred at 12:58 p.m., June 4. Hatches opened at 2:34 p.m. the same day. At hatch opening, Andy Thomas officially became a member of Discovery's crew, completing 130 days of living and working on Mir. The transfer wrapped up a total of 907 days spent by seven U.S. astronauts aboard the Russian space station as long-duration crew members. During the next four days, the Mir 25 and STS-91 crews transferred more than 1,100 pounds of water, and almost 4,700 pounds of cargo experiments and supplies were exchanged between the two spacecraft. During this time, long-term U.S. experiments aboard the Mir were moved into Discovery’s middeck locker area and the SPACEHAB single module in the orbiter's payload bay, including the Space Acceleration Measurement System (SAMS) and the tissue engineering co-culture (COCULT) investigations, as well as two crystal growth experiments. The crews also conducted Risk Mitigation Experiments (RMEs) and Human Life Sciences (HLS) investigations. When the hatches closed for undocking at 9:07 a.m., June 8, and the spacecraft separated at 12:01 p.m. that day, the final Shuttle-Mir docking mission was concluded and Phase 1 of the International Space Station (ISS) program came to an end.
+    <desc cargo="SPACEHAB, AMS">Docking of Discovery to Mir, the first for that orbiter, occurred at 12:58 p.m., June 4. Hatches opened at 2:34 p.m. the same day. At hatch opening, Andy Thomas officially became a member of Discovery's crew, completing 130 days of living and working on Mir. The transfer wrapped up a total of 907 days spent by seven U.S. astronauts aboard the Russian space station as long-duration crew members. During the next four days, the Mir 25 and STS-91 crews transferred more than 1,100 pounds of water, and almost 4,700 pounds of cargo experiments and supplies were exchanged between the two spacecraft. During this time, long-term U.S. experiments aboard the Mir were moved into Discovery’s middeck locker area and the SPACEHAB single module in the orbiter's payload bay, including the Space Acceleration Measurement System (SAMS) and the tissue engineering co-culture (COCULT) investigations, as well as two crystal growth experiments. The crews also conducted Risk Mitigation Experiments (RMEs) and Human Life Sciences (HLS) investigations. When the hatches closed for undocking at 9:07 a.m., June 8, and the spacecraft separated at 12:01 p.m. that day, the final Shuttle-Mir docking mission was concluded and Phase 1 of the International Space Station (ISS) program came to an end.
     
     The Alpha Magnetic Spectrometer (AMS) flew for the first time on this mission.
     
-    Crew consisted of Commander Charles J. Precourt, Pilot Dominic L. Pudwill Gorie, Mission Specialists Wendy B. Lawrence, Franklin R. Chang-Diaz, Janet L. Kavandi and Valery Victorovitch Ryumin.
+    Crew consisted of Commander Charles J. Precourt, Pilot Dominic L. Pudwill Gorie, Mission Specialists Wendy B. Lawrence, Franklin R. Chang-Diaz, Janet L. Kavandi and Valery Victorovitch Ryumin.</desc>
     
 </xml>
 
