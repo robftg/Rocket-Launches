@@ -2,7 +2,7 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="130">STS-130</sts>
-    <mission type="ISS Construction" org="NASA">Mission: ISS construction</mission>
+    <mission type="issConstruct" org="nasa">Mission: ISS construction</mission>
     <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
     <launchPad sBase="KSC" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
     <launch sDateTime="2010-02-08T04:14:00">Launched Feburary 8th 2010 at 4:14 AM EST</launch>
