@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-99
-    Mission: Shuttle Radar Topography Mission
-    Space Shuttle: Endeavour
-    Launch Pad: 39-A
-    Launched: Feb. 11,  2000, 11:44 a.m. CST
-    Launch Window: 2 hours, 2 minutes
-    Landing: Feb. 22,  2000, 5:22 p.m. CST
-    Mission Duration: 11 days, 5 hours, 38 minutes
-    Orbit Altitude: 126 nautical miles
-    Orbit Inclination: 57 degrees
+    <sts stsNum="099">STS-99</sts>
+    <mission type="" org="">Mission: Shuttle Radar Topography Mission</mission>
+    <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39-A</launchPad>
+    <launch sDateTime="2000-02-11T11:44:00">Launched: Feb. 11,  2000, 11:44 a.m. CST</launch>
+    <land eDateTime="2000-02-22T17:22:00">Landing: Feb. 22,  2000, 5:22 p.m. CST</land>
+    <duration time="P11DT5H38M">Mission Duration: 11 days, 5 hours, 38 minutes</duration>
+    <altitude alt="126">Orbit Altitude: 126 nautical miles</altitude>
+    <inclination deg="57">Orbit Inclination: 57 degrees</inclination>
     
     The main objective of STS-99 was to obtain the most complete high-resolution digital topographic database of the Earth.
     

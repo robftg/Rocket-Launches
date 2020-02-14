@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-96
-    Mission: International Space Station Flight 2A.1
-    Space Shuttle: Discovery
-    Launch Pad: 39B
-    Launched: May 27, 1999, 5:50 a.m. CDT
-    Launch Window: 5-10 minutes
-    EVAs: 1 spacewalk
-    Landing: June 6, 1999, 1:03 a.m. CDT
-    Mission Duration: 9 days, 13 hours, 19 minutes
-    Orbit Altitude: 210 nautical miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="096">STS-96</sts>
+    <mission type="" org="">Mission: International Space Station Flight 2A.1</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="1999-05-27T05:50:00">Launched: May 27, 1999, 5:50 a.m. CDT</launch>
+    <land eDateTime="1999-06-06T01:03:00">Landing: June 6, 1999, 1:03 a.m. CDT</land>
+    <duration time="P9DT13H19M">Mission Duration: 9 days, 13 hours, 19 minutes</duration>
+    <altitude alt="210">Orbit Altitude: 210 nautical miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     Space Shuttle Discovery and the STS-96 crew visited the new International Space Station for six days of docked activities. This flight represented the first shuttle docking to the fledgling space outpost.
     

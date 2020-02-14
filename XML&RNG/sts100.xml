@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-100
-    Mission: International Space Station Flight 6A
-    Space Shuttle: Endeavour
-    Launch Pad: 39A
-    Launched: April 19,  2001, 1:41 p.m. CDT
-    Launch Window: 10 minutes
-    EVAs: 2 spacewalks
-    Landing: May 1,  2001, 11:11 a.m. CDT
-    Mission Duration: 11 days, 21 hours, 30 minutes
-    Orbit Altitude: 173 nautical miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="100">STS-100</sts>
+    <mission type="" org="">Mission: International Space Station Flight 6A</mission>
+    <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
+    <launch sDateTime="2001-04-19T13:41:00">Launched: April 19,  2001, 1:41 p.m. CDT</launch>
+    <land eDateTime="2001-05-01T11:11:00">Landing: May 1,  2001, 11:11 a.m. CDT</land>
+    <duration time="P11DT21H30M">Mission Duration: 11 days, 21 hours, 30 minutes</duration>
+    <altitude alt="173">Orbit Altitude: 173 nautical miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     Endeavour and its crew spent almost 12 days on orbit, eight of which were spent in joint operations with the International Space Station crew. Endeavour's crew delivered and installed a new robotic arm and helped to transfer equipment and supplies between vehicles.
     

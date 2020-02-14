@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    STS-102
-    Mission:International Space Station Flight 5A.1
-    Space Shuttle: Discovery
-    Launch Pad: 39B
-    Launched: March 8,  2001, 5:42 a.m. CST
-    Launch Window: less than 5 minutes
-    EVAs: 2 spacewalks
-    Landing: March 21,  2001, 1:31 a.m. CST
-    Mission Duration: 12 days, 19 hours, 49 minutes
-    Orbit Altitude: 173 nautical miles
-    Orbit Inclination: 51.6 degrees
+    <sts stsNum="102">STS-102</sts>
+    <mission type="" org="">Mission:International Space Station Flight 5A.1</mission>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
+    <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
+    <launch sDateTime="2001-03-08T05:42:00">Launched: March 8,  2001, 5:42 a.m. CST</launch>
+    <land eDateTime="2001-03-21T01:31:00">Landing: March 21,  2001, 1:31 a.m. CST</land>
+    <duration time="P12DT19H49M">Mission Duration: 12 days, 19 hours, 49 minutes</duration>
+    <altitude alt="173">Orbit Altitude: 173 nautical miles</altitude>
+    <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
     Space Shuttle Discovery spent almost 13 days in orbit, with nearly nine of those days docked to the International Space Station. While at the orbital outpost, the STS-102 crew attached the Leonardo Multi-Purpose Logistics Module, transferred supplies and equipment to the station, and completed two space walks.
     
