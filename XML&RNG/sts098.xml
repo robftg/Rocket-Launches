@@ -2,22 +2,13 @@
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <sts stsNum="098">STS-98</sts>
-<<<<<<< HEAD
-    <mission type="" org="">Mission: International Space Station Flight 5A</mission>
-    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
-    <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
-    <launch sDateTime="2001-02-07T17:13:00">Launched: Feb. 7,  2001, 5:13 p.m. CST</launch>
-    <land eDateTime="2001-02-20T14:33:00">Landing: Feb. 20,  2001, 2:33 p.m. CST</land>
-    <duration time="P12DT21H20M">Mission Duration: 12 days, 21 hours, 20 minutes</duration>
-=======
     <mission type="issConstruct" org="international">Mission: International Space Station Flight 5A</mission>
     <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
-    <launch sDateTime="2011-02-07T18:13:00">Launched: Feb. 7,  2001, 6:13 p.m. EST</launch>
+    <launch sDateTime="2001-02-07T17:13:00">Launched: Feb. 7,  2001, 5:13 p.m. CST</launch>
     <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center</landPad>
-    <land eDateTime="2001-02-20T15:33:00">Landing: Feb. 20,  2001, 3:33 p.m. EST</land>
-    <duration time="P12DT21H20M0S">Mission Duration: 12 days, 21 hours, 20 minutes</duration>
->>>>>>> c66559f06d57ede35dde0b066bf22ad9085b2caa
+    <land eDateTime="2001-02-20T14:33:00">Landing: Feb. 20,  2001, 2:33 p.m. CST</land>
+    <duration time="P12DT21H20M">Mission Duration: 12 days, 21 hours, 20 minutes</duration>
     <altitude alt="177">Orbit Altitude: 177 nautical miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
