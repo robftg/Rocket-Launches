@@ -1,39 +1,109 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
 body{
-    background-color: #616163;
-    font-size: 18px;
-    font-family: Verdana, Geneva, sans-serif;
-    
+    font-size: 16px;
+    display: flex; 
+    flex-direction: row;
+    overflow: hidden;
 }
 
-.header{
+.half{
     display: flex;
-    height: 10vh;
-    width: 100vw;
-    flex-wrap: nowrap;
-    justify-content: space-evenly;
-    
-    /* Debugging Code Below */
-    /* border: 1px solid black; */
-}
-
-.cell{
-    display: flex;
-    height: 10vh;
-    width: 32vw;
-    flex-wrap: nowrap;
-    justify-content: space-evenly;
-    flex: 1 1 auto;
-    
-    /* Debugging Code Below */
-    /* border: 1px solid blue; */
-}
-
-.left, .right{
-    display: flex;
-    height: 80vh;
+    height: 100vh;
     width: 50vw;
-    justify-content: space-evenly;
-    
-    /* Debugging Code Below */
-    /* border: 1px solid black; */
+    flex-direction: column;
+    justify-content: center;
 }
+
+.half img{
+    width: auto;
+    height: 30vh;
+    padding: 5%;
+}
+
+#left img{
+    height: 50vh;
+    width: auto;
+}
+
+#left {
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    order: 2;
+}
+
+#right {
+    justify-content: center;
+    align-items: center;
+    background-color: #BBBBBB;
+    order: 1;
+}
+
+h1{
+    text-align: center;
+    color: teal;
+}
+
+#right img{
+    height: 25vh;
+    width: auto;
+}
+/* This is a test of a dropdown menu */
+/* Style The Dropdown Button */
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+/* <div class="dropdown">
+                <button class="dropbtn">Dropdown</button>
+                <div class="dropdown-content">
+                    <a href="#">Link 1</a>
+                    <a href="#">Link 2</a>
+                    <a href="#">Link 3</a>
+                </div>
+            </div> */
+
