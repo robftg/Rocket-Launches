@@ -2,14 +2,33 @@
 <html>
     <head>
         <title>Shuttle Launch History</title>
-        <link rel="stylesheet" href="rocketstyle.css">
+        <link rel="stylesheet" href="rocketstyle.css">  
     </head>
     <body>
+        
+        <div class="top" id="top">
+            <!-- SSI line below -->
+            <div class="header">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#news">News</a></li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
+                        <div class="dropdown-content">
+                            <a href="#">Link 1</a>
+                            <a href="#">Link 2</a>
+                            <a href="#">Link 3</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!--#include virtual="top.html" -->
+        </div>
         <div class="half" id="left">
             <img src="images/halfshuttle.png" alt="Half Built Shuttle">
         </div>
         <div class="half" id="right">
-            <!--#include virtual="top.html" -->
+            
         </div>
     </body>
 </html>
