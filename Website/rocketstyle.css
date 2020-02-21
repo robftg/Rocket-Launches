@@ -5,18 +5,20 @@ html, body{
 body{
     font-size: 16px;
     display: flex; 
-    flex-direction: row;
+    flex-direction: column;
     overflow: hidden;
 }
 
 .top{
     display: flex;
-    
+    width: 100vw;
+    height: auto;
+    background-color: black;
 }
 
 .half{
     display: flex;
-    height: 90vh;
+    height: 100vh;
     width: 50vw;
     flex-direction: column;
     justify-content: center;
@@ -34,24 +36,17 @@ body{
     width: auto;
 }
 
-#top {
-    background-color: black;
-    order: 1;
-    
-}
-
 #left {
     justify-content: center;
     align-items: center;
     background-color: black;
-    order: 3;
 }
 
 #right {
     justify-content: center;
     align-items: center;
     background-color: #BBBBBB;
-    order: 2;
+    height: 100%;
 }
 
 h1{
