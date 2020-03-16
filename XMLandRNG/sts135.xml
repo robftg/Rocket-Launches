@@ -4,7 +4,7 @@
     <sts stsNum="135">STS-135</sts>
     <mission type="issResupply" org="nasa">Mission: Atlantis' final flight and final shuttle mission</mission>
     <orbiter oName="Atlantis">Space Shuttle: Atlantis</orbiter>
-    <launchPad sBase="KSC" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
     <launch sDateTime="2011-07-08T05:59:00">Launched July 8th 2011 at 5:59 AM EST</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site Edwards Air Force Base</landPad>
     <land eDateTime="2011-07-21T04:57:00">Landing July 21st 2011 at 4:57 AM EST</land>
