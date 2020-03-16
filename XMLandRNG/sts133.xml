@@ -4,7 +4,7 @@
     <sts stsNum="133">STS-133</sts>
     <mission type="issResupply" org="nasa">Mission: Discovery's final flight and ISS resupply</mission>
     <orbiter oName="Discovery">Space Shuttle: Discovery</orbiter>
-    <launchPad sBase="KSC" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
     <launch sDateTime="2011-02-24T04:53:24">Launched Febuary 24th 2011 at 4:53:24 PM EST</launch>
     <landPad eBase="kennedySpaceCenter">Landing Site Kennedy Space Center</landPad>
     <land eDateTime="2011-03-09T11:57:17">Landing March 9th 2011 at 11:57:17 AM EST</land>
