@@ -4,7 +4,7 @@
     <sts stsNum="134">STS-134</sts>
     <mission type="issResupply" org="nasa">Mission: Endeavour' final flight, deleviery of supplies to the ISS</mission>
     <orbiter oName="Endeavour">Space Shuttle: Endeavour</orbiter>
-    <launchPad sBase="KSC" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
+    <launchPad sBase="kennedySpaceCenter" padNum="39A">Kennedy Space Center Launch Pad 39A</launchPad>
     <launch sDateTime="2011-05-16T08:56:00">Launched May 16th, 2011 8:56 AM EST</launch>
     <landPad eBase="kennedySpaceCenter">Landing Site Kennedy Space Center</landPad>
     <land eDateTime="2011-06-01T02:35:00">Landing June 1st at 2:35 AM EST</land>
