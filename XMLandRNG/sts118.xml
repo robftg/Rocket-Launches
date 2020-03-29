@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    <sts stsNume="118">STS-118</sts>
+    <sts stsNum="118">STS-118</sts>
     <mission type="issConstruct" org="international">Mission: International Space Station Construction</mission>
-    <orbier oName="endeavour">Space Shuttle: Endeavour</orbier>
+    <orbiter oName="endeavour">Space Shuttle: Endeavour</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="2007-08-08T18:36:00">Aug. 8,  2007, 6:36 p.m. EDT</launch>
     <landPad eBase="kennedySpaceCebter">Landing Site: Kennedy Space Center </landPad>
     <land eDateTime="2007-08-21T12:33:00">Aug. 21,  2007, 12:33 p.m. EDT</land>
-    <duration time="P12D17H55M0S">Mission Duration: 12 days, 17 hours, 55 minutes, 0 seconds</duration>
+    <duration time="P12DT17H55M0S">Mission Duration: 12 days, 17 hours, 55 minutes, 0 seconds</duration>
     <altitude alt="122">Orbit Altitude: 122 nautical miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
 

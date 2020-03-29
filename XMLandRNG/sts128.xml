@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    <sts stsNume="128">STS-128</sts>
+    <sts stsNum="128">STS-128</sts>
     <mission type="issResupply" org="international">Mission: International Space Station Resupply</mission>
-    <orbier oName="discovery">Space Shuttle: Discovery</orbier>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39A">Launch Pad: 39A</launchPad>
     <launch sDateTime="2009-08-28T23:59:00">Launched: 11:59 p.m. EDT, Aug. 28, 2009</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base</landPad>
     <land eDateTime="2009-09-11T20:53:00">Landing: 8:53 p.m. EDT, Sept. 11, 2009</land>
-    <duration time="P13D20H54M0S">Mission Duration: 13 days, 20 hours, 54 minutes, 0 seconds</duration>
+    <duration time="P13DT20H54M0S">Mission Duration: 13 days, 20 hours, 54 minutes, 0 seconds</duration>
     <altitude alt="122">Orbit Altitude: 122 nautical miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
 

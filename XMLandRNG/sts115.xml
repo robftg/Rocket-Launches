@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    <sts stsNume="115">STS-115</sts>
+    <sts stsNum="115">STS-115</sts>
     <mission type="issConstruct" org="international">Mission: International Space Station Construction</mission>
-    <orbier oName="atlantis">Space Shuttle: Atlantis</orbier>
+    <orbiter oName="atlantis">Space Shuttle: Atlantis</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="2006-09-09T11:15:00">Launched: Sept. 9th, 2006, 11:15 a.m. EDT</launch>
     <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center</landPad>
     <land eDateTime="2006-09-21T06:21:00">Landing: Sept. 21,  2006, 6:21 a.m. EDT</land>
-    <duration time="P11D19H6M35S">Mission Duration: 11 days, 19 hours, 6 minutes, and 35 seconds</duration>
+    <duration time="P11DT19H6M35S">Mission Duration: 11 days, 19 hours, 6 minutes, and 35 seconds</duration>
     <altitude alt="122">Orbit Altitude: 122 nautical miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
 

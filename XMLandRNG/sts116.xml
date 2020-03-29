@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="STS.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    <sts stsNume="116">STS-116</sts>
+    <sts stsNum="116">STS-116</sts>
     <mission type="issConstruct" org="international">Mission: International Space Station Construction</mission>
-    <orbier oName="discovery">Space Shuttle: Discovery</orbier>
+    <orbiter oName="discovery">Space Shuttle: Discovery</orbiter>
     <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
     <launch sDateTime="2006-12-09T20:47:00">Dec. 9,  2006, 8:47 p.m. EDT</launch>
     <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center</landPad>
     <land eDateTime="2006-12-22T17:32:00">Dec. 22,  2006, 5:32 p.m. EDT</land>
-    <duration time="P12D20H45M0S">Mission Duration: 12 days, 20 hours, 45 minutes, 0 seconds</duration>
+    <duration time="P12DT20H45M0S">Mission Duration: 12 days, 20 hours, 45 minutes, 0 seconds</duration>
     <altitude alt="122">Orbit Altitude: 122 nautical miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
 
