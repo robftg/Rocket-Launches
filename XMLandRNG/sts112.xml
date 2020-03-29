@@ -8,7 +8,7 @@
     <launch sDateTime="2002-10-07T15:46:00">Launched: Oct. 7,  2002, 3:46 p.m. EDT</launch>
     <landPad eBase="kennedySpaceCenter">Landing Site: Kennedy Space Center</landPad>
     <land eDateTime="2002-10-18T11:44:00">Landing: Oct. 18,  2002, 11:44 a.m. EDT</land>
-    <duration time="P10D19H58M0S">Mission Duration: 10 days, 19 hours, 58 minutes</duration>
+    <duration time="P10DT19H58M0S">Mission Duration: 10 days, 19 hours, 58 minutes</duration>
     <altitude alt="122">Orbit Altitude: 122 nautical miles</altitude>
     <inclination deg="51.6">Orbit Inclination: 51.6 degrees</inclination>
     
