@@ -8,7 +8,7 @@
     <launch sDateTime="1989-11-22T07:23:30">Launched: November 22, 1989, 7:23:30 p.m. EST</launch>
     <landPad eBase="edwardsAirForceBase">Landing Site: Edwards Air Force Base, Calif.</landPad>
     <land eDateTime="1989-11-27T19:30:18">Landing: November 27, 1989, 7:30:18 p.m. EST</land>
-    <duration time="5DT0H6M48S">Mission Duration: 5 days, 0 hours, 6 minutes, 48 seconds</duration>
+    <duration time="P5DT0H6M48S">Mission Duration: 5 days, 0 hours, 6 minutes, 48 seconds</duration>
     <altitude alt="302">Orbit Altitude: 302 nautical miles</altitude>
     <inclination deg="28.4">Orbit Inclination: 28.45 degrees</inclination>
 

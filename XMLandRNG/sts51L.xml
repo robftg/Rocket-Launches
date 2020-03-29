@@ -6,7 +6,7 @@
   <orbiter oName="challenger">Space Shuttle: Challenger</orbiter>
   <launchPad sBase="kennedySpaceCenter" padNum="39B">Launch Pad: 39B</launchPad>
   <launch sDateTime="1986-01-28T11:38:00">Launched: Jan. 28, 1986, 11:38:00 a.m. EST</launch>
-  <duration time="T1M13S">Mission Duration: 1 minute, 13 seconds</duration>
+  <duration time="P0DT1M13S">Mission Duration: 1 minute, 13 seconds</duration>
   <altitude alt="150">Orbit Altitude: 150 nautical miles (planned)</altitude>
   <inclination deg="28.5">Orbit Inclination: 28.5 degrees (planned)</inclination>
 
