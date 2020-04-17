@@ -24,6 +24,8 @@ body{
     flex-direction: column;
     justify-content: center;
     align-self: flex-end;
+    overflow-y: auto;
+    position: static;
 }
 
 .normal{
@@ -32,13 +34,14 @@ body{
     min-height: 100vh;
 }
 
-.mission{
+.mission, .orbit{
     display: flex;
     min-height: 100vh;
     width: 50vw;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
-    align-self: flex-end;
+    align-self: flex-start;
+    flex-wrap: wrap;
 }
 
 .normal > *{
@@ -48,6 +51,18 @@ body{
 .mission > *{
     padding: 20px;
 }
+
+#leftm img{
+    height: auto;
+    width: auto;
+}
+
+#Rightm img{
+    height: auto;
+    width: auto;
+}
+
+
 
 .half img{
     width: auto;
@@ -78,7 +93,9 @@ body{
 
 h1{
     text-align: center;
-    color: teal;
+    color: Blue;
+    position: relative;
+    left: 200px;
 }
 
 #right img{
@@ -106,7 +123,7 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: blue;
 }
 
 li.dropdown {
