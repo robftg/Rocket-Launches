@@ -55,6 +55,7 @@ body{
 #leftm img{
     height: auto;
     width: auto;
+    overflow: scroll;
 }
 
 #Rightm img{
