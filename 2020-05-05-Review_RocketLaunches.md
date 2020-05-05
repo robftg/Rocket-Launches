@@ -16,7 +16,7 @@ The “Source Code” page, somewhat surprisingly, is where you introduce the to
 ### Technologies
     
 #### Network Visualizations and SVG Bar Graph
-    You did some terrific work with the network graphs on the site, which really help to visually assess and sum up the categories of mission associated with each shuttle. There is a nice introduction provided with the overview of all mission types, but what is missing here is documentation. The labels give us an idea of what the missions are for, but each should be accompanied by a text description. Here you could tell us more about the shuttles’ role in constructing and supplying the international space station, for example, and what range of activities has qualified for “science” missions? Perhaps you could comment a bit on whatever information NASA provides on those classified missions.
+You did some terrific work with the network graphs on the site, which really help to visually assess and sum up the categories of mission associated with each shuttle. There is a nice introduction provided with the overview of all mission types, but what is missing here is documentation. The labels give us an idea of what the missions are for, but each should be accompanied by a text description. Here you could tell us more about the shuttles’ role in constructing and supplying the international space station, for example, and what range of activities has qualified for “science” missions? Perhaps you could comment a bit on whatever information NASA provides on those classified missions.
     
      
 #### GitHub
